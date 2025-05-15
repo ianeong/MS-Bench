@@ -43,7 +43,9 @@ You can access and download it via the link above.
 
 <details>
 <summary>Results on textual recognition tasks (click to expand)</summary>
-![Recognition Task Result](figures/textual_recognition_results.png)
+
+
+
 ![Recognition Task Result](figures/textual_recognition_results.png)
 
 </details>
@@ -58,7 +60,9 @@ You can access and download it via the link above.
 
 <details>
 <summary>Results on the materiality study tasks (click to expand)</summary>
-![textual analysis result](figures/materiality_study_results.png)
+
+
+
 ![textual analysis result](figures/materiality_study_results.png)
 
 </details>
