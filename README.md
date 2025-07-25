@@ -47,14 +47,15 @@ You can evaluate your preferred LLM on MS-Bench using API access (e.g., OpenAI, 
 
 #### 1. Prepare API Configuration
 
-Create a new JSON file inside the `api/` directory that stores your model’s API information. For example:
+Create a new JSON file inside the `api/` directory that stores your model’s API information.
+
+Example:  `api/gpt-4o.json`. 
 
 ```json
-// api/gpt-4o.json
 {
   "api_key": "YOUR_API_KEY",
-  "base_url": "https://api.openai.com/v1",
-  "model_name": "gpt-4o"
+  "base_url": "MODEL_BASE_URL",
+  "model_name": "MODEL_NAME"
 }
 ```
 
@@ -99,7 +100,7 @@ This script will:
 #### 4. Output Structure
 After execution, results will be saved to output/{model_name}, like:
 
-```pgsql
+```
 output/
 └── my-model-name/
     ├── manuscript_ocr_model_name.json
