@@ -1,0 +1,142 @@
+[
+    {
+        "No": 1,
+        "question_type": "image_recognition",
+        "subfield": "calligraphy_recognition",
+        "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition/calligraphy_recognition_1.png'>",
+        "answer": "行书。"
+    },
+    {
+        "No": 2,
+        "question_type": "image_recognition",
+        "subfield": "calligraphy_recognition",
+        "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition/calligraphy_recognition_2.png'>",
+        "answer": "行书。"
+    },
+    {
+        "No": 3,
+        "question_type": "image_recognition",
+        "subfield": "calligraphy_recognition",
+        "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition/calligraphy_recognition_3.png'>",
+        "answer": "行书。"
+    },
+    {
+        "No": 4,
+        "question_type": "image_recognition",
+        "subfield": "calligraphy_recognition",
+        "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition/calligraphy_recognition_4.png'>",
+        "answer": "行书。"
+    },
+    {
+        "No": 5,
+        "question_type": "image_recognition",
+        "subfield": "calligraphy_recognition",
+        "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition/calligraphy_recognition_5.png'>",
+        "answer": "行书。"
+    },
+    {
+        "No": 6,
+        "question_type": "image_recognition",
+        "subfield": "calligraphy_recognition",
+        "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition/calligraphy_recognition_6.png'>",
+        "answer": "行书。"
+    },
+    {
+        "No": 7,
+        "question_type": "image_recognition",
+        "subfield": "calligraphy_recognition",
+        "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition/calligraphy_recognition_7.png'>",
+        "answer": "行书。"
+    },
+    {
+        "No": 8,
+        "question_type": "image_recognition",
+        "subfield": "calligraphy_recognition",
+        "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition/calligraphy_recognition_8.png'>",
+        "answer": "行书。"
+    },
+    {
+        "No": 9,
+        "question_type": "image_recognition",
+        "subfield": "calligraphy_recognition",
+        "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition/calligraphy_recognition_9.png'>",
+        "answer": "行书。"
+    },
+    {
+        "No": 10,
+        "question_type": "image_recognition",
+        "subfield": "calligraphy_recognition",
+        "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition/calligraphy_recognition_10.png'>",
+        "answer": "行书。"
+    },
+    {
+        "No": 11,
+        "question_type": "image_recognition",
+        "subfield": "calligraphy_recognition",
+        "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition/calligraphy_recognition_11.png'>",
+        "answer": "行书。"
+    },
+    {
+        "No": 12,
+        "question_type": "image_recognition",
+        "subfield": "calligraphy_recognition",
+        "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition/calligraphy_recognition_12.png'>",
+        "answer": "行书。"
+    },
+    {
+        "No": 13,
+        "question_type": "image_recognition",
+        "subfield": "calligraphy_recognition",
+        "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition/calligraphy_recognition_13.png'>",
+        "answer": "行书。"
+    },
+    {
+        "No": 14,
+        "question_type": "image_recognition",
+        "subfield": "calligraphy_recognition",
+        "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition/calligraphy_recognition_14.png'>",
+        "answer": "行书。"
+    },
+    {
+        "No": 15,
+        "question_type": "image_recognition",
+        "subfield": "calligraphy_recognition",
+        "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition/calligraphy_recognition_15.png'>",
+        "answer": "行书。"
+    },
+    {
+        "No": 16,
+        "question_type": "image_recognition",
+        "subfield": "calligraphy_recognition",
+        "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition/calligraphy_recognition_16.png'>",
+        "answer": "行书。"
+    },
+    {
+        "No": 17,
+        "question_type": "image_recognition",
+        "subfield": "calligraphy_recognition",
+        "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition/calligraphy_recognition_17.png'>",
+        "answer": "行书。"
+    },
+    {
+        "No": 18,
+        "question_type": "image_recognition",
+        "subfield": "calligraphy_recognition",
+        "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition/calligraphy_recognition_20.png'>",
+        "answer": "行书。"
+    },
+    {
+        "No": 19,
+        "question_type": "image_recognition",
+        "subfield": "calligraphy_recognition",
+        "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition/calligraphy_recognition_21.png'>",
+        "answer": "行书。"
+    },
+    {
+        "No": 20,
+        "question_type": "image_recognition",
+        "subfield": "calligraphy_recognition",
+        "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition/calligraphy_recognition_24.png'>",
+        "answer": "行书。"
+    }
+]

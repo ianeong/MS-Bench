@@ -1,0 +1,1934 @@
+[
+    {
+        "No": 1,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_1.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 2,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_2.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 3,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_3.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 4,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_4.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 5,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_5.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 6,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_6.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 7,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_7.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 8,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_8.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 9,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_9.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 10,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_10.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 11,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_11.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 12,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_12.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 13,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_13.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 14,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_14.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 15,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_15.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 16,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_16.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 17,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_17.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 18,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_18.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 19,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_19.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 20,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_20.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 21,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_21.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 22,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_22.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 23,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_23.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 24,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_24.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 25,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_25.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 26,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_26.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 27,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_27.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 28,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_28.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 29,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_29.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 30,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_30.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 31,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_31.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 32,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_32.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 33,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_33.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 34,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_34.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 35,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_35.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 36,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_36.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 37,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_37.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 38,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_38.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 39,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_39.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 40,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_40.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 41,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_41.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 42,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_42.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 43,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_43.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 44,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_44.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 45,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_45.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 46,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_46.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 47,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_47.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 48,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_48.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 49,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_49.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 50,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_50.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 51,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_51.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 52,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_52.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 53,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_53.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 54,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_54.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 55,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_55.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 56,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_56.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 57,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_57.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 58,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_58.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 59,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_59.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 60,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_60.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 61,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_61.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 62,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_62.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 63,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_63.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 64,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_64.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 65,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_65.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 66,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_66.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 67,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_67.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 68,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_68.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 69,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_69.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 70,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_70.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 71,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_71.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 72,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_72.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 73,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_73.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 74,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_74.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 75,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_75.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 76,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_76.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 77,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_77.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 78,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_78.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 79,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_79.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 80,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_80.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 81,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_81.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 82,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_82.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 83,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_83.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 84,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_84.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 85,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_85.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 86,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_86.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 87,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_87.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 88,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_88.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 89,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_89.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 90,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_90.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 91,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_91.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 92,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_92.png'>",
+        "answer": "唐代。"
+    },
+    {
+        "No": 93,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_93.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 94,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_94.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 95,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_95.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 96,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_96.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 97,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_97.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 98,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_98.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 99,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_99.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 100,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_100.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 101,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_101.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 102,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_102.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 103,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_103.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 104,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_104.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 105,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_105.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 106,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_106.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 107,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_107.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 108,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_108.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 109,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_109.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 110,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_110.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 111,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_111.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 112,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_112.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 113,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_113.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 114,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_114.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 115,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_115.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 116,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_116.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 117,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_117.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 118,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_118.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 119,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_119.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 120,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_120.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 121,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_121.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 122,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_122.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 123,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_123.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 124,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_124.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 125,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_125.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 126,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_126.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 127,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_127.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 128,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_128.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 129,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_129.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 130,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_130.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 131,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_131.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 132,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_132.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 133,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_133.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 134,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_134.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 135,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_135.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 136,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_136.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 137,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_137.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 138,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_138.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 139,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_139.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 140,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_140.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 141,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_141.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 142,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_142.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 143,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_143.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 144,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_144.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 145,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_145.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 146,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_146.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 147,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_147.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 148,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_148.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 149,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_149.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 150,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_150.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 151,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_151.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 152,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_152.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 153,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_153.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 154,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_154.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 155,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_155.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 156,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_156.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 157,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_157.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 158,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_158.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 159,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_159.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 160,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_160.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 161,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_161.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 162,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_162.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 163,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_163.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 164,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_164.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 165,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_165.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 166,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_166.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 167,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_167.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 168,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_168.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 169,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_169.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 170,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_170.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 171,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_171.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 172,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_172.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 173,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_173.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 174,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_174.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 175,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_175.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 176,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_176.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 177,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_177.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 178,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_178.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 179,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_179.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 180,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_180.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 181,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_181.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 182,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_182.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 183,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_183.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 184,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_184.png'>",
+        "answer": "魏晋南北朝。"
+    },
+    {
+        "No": 185,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_185.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 186,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_186.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 187,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_187.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 188,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_188.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 189,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_189.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 190,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_190.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 191,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_191.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 192,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_192.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 193,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_193.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 194,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_194.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 195,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_195.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 196,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_196.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 197,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_197.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 198,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_198.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 199,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_199.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 200,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_200.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 201,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_201.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 202,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_202.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 203,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_203.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 204,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_204.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 205,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_205.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 206,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_206.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 207,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_207.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 208,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_208.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 209,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_209.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 210,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_210.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 211,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_211.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 212,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_212.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 213,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_213.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 214,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_214.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 215,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_215.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 216,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_216.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 217,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_217.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 218,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_218.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 219,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_219.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 220,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_220.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 221,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_221.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 222,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_222.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 223,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_223.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 224,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_224.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 225,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_225.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 226,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_226.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 227,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_227.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 228,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_228.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 229,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_229.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 230,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_230.png'>",
+        "answer": "元代。"
+    },
+    {
+        "No": 231,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_231.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 232,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_232.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 233,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_233.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 234,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_234.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 235,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_235.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 236,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_236.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 237,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_237.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 238,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_238.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 239,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_239.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 240,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_240.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 241,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_241.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 242,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_242.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 243,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_243.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 244,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_244.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 245,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_245.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 246,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_246.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 247,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_247.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 248,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_248.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 249,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_249.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 250,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_250.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 251,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_251.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 252,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_252.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 253,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_253.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 254,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_254.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 255,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_255.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 256,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_256.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 257,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_257.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 258,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_258.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 259,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_259.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 260,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_260.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 261,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_261.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 262,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_262.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 263,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_263.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 264,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_264.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 265,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_265.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 266,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_266.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 267,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_267.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 268,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_268.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 269,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_269.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 270,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_270.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 271,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_271.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 272,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_272.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 273,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_273.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 274,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_274.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 275,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_275.png'>",
+        "answer": "五代。"
+    },
+    {
+        "No": 276,
+        "question_type": "image_recognition",
+        "subfield": "date_determination",
+        "question": "这是一张敦煌壁画，请判断它最接近的中国年代是？<img='datas/date_determination/date_determination_276.png'>",
+        "answer": "五代。"
+    }
+]

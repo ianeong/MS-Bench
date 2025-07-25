@@ -1,0 +1,2802 @@
+[
+  {
+    "No": 1,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_1.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 2,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_2.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 3,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_3.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 4,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_4.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 5,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_5.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 6,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_6.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 7,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_7.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 8,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_8.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 9,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_9.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 10,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_10.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 11,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_11.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 12,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_12.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 13,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_13.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 14,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_14.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 15,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_15.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 16,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_16.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 17,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_17.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 18,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_18.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 19,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_19.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 20,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_20.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 21,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_21.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 22,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_22.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 23,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_23.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 24,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_24.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 25,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_25.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 26,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_26.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 27,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_27.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 28,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_28.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 29,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_29.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 30,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_30.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 31,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_31.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 32,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_32.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 33,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_33.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 34,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_34.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 35,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_35.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 36,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_36.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 37,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_37.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 38,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_38.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 39,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_39.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 40,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_40.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 41,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_41.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 42,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_42.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 43,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_43.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 44,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_44.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 45,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_45.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 46,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_46.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 47,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_47.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 48,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_48.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 49,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_49.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 50,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_50.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 51,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_51.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 52,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_52.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 53,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_53.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 54,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_54.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 55,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_55.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 56,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_56.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 57,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_57.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 58,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_58.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 59,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_59.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 60,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_60.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 61,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_61.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 62,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_62.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 63,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_63.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 64,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_64.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 65,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_65.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 66,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_66.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 67,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_67.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 68,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_68.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 69,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_69.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 70,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_70.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 71,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_71.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 72,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_72.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 73,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_73.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 74,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_74.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 75,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_75.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 76,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_76.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 77,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_77.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 78,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_78.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 79,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_79.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 80,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_80.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 81,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_81.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 82,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_82.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 83,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_83.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 84,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_84.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 85,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_85.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 86,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_86.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 87,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_87.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 88,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_88.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 89,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_89.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 90,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_90.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 91,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_91.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 92,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_92.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 93,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_93.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 94,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_94.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 95,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_95.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 96,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_96.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 97,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_97.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 98,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_98.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 99,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_99.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 100,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_100.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "行书。"
+  },
+  {
+    "No": 101,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_101.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 102,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_102.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 103,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_103.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 104,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_104.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 105,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_105.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 106,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_106.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 107,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_107.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 108,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_108.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 109,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_109.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 110,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_110.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 111,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_111.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 112,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_112.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 113,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_113.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 114,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_114.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 115,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_115.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 116,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_116.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 117,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_117.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 118,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_118.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 119,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_119.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 120,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_120.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 121,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_121.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 122,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_122.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 123,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_123.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 124,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_124.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 125,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_125.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 126,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_126.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 127,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_127.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 128,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_128.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 129,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_129.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 130,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_130.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 131,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_131.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 132,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_132.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 133,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_133.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 134,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_134.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 135,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_135.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 136,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_136.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 137,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_137.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 138,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_138.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 139,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_139.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 140,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_140.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 141,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_141.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 142,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_142.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 143,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_143.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 144,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_144.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 145,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_145.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 146,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_146.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 147,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_147.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 148,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_148.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 149,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_149.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 150,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_150.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 151,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_151.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 152,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_152.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 153,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_153.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 154,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_154.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 155,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_155.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 156,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_156.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 157,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_157.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 158,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_158.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 159,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_159.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 160,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_160.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 161,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_161.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 162,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_162.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 163,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_163.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 164,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_164.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 165,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_165.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 166,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_166.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 167,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_167.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 168,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_168.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 169,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_169.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 170,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_170.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 171,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_171.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 172,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_172.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 173,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_173.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 174,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_174.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 175,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_175.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 176,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_176.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 177,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_177.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 178,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_178.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 179,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_179.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 180,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_180.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 181,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_181.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 182,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_182.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 183,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_183.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 184,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_184.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 185,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_185.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 186,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_186.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 187,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_187.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 188,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_188.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 189,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_189.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 190,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_190.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 191,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_191.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 192,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_192.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 193,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_193.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 194,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_194.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 195,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_195.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 196,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_196.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 197,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_197.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 198,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_198.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 199,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_199.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 200,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_200.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "草书。"
+  },
+  {
+    "No": 201,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_201.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 202,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_202.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 203,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_203.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 204,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_204.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 205,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_205.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 206,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_206.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 207,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_207.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 208,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_208.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 209,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_209.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 210,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_210.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 211,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_211.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 212,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_212.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 213,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_213.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 214,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_214.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 215,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_215.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 216,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_216.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 217,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_217.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 218,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_218.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 219,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_219.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 220,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_220.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 221,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_221.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 222,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_222.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 223,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_223.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 224,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_224.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 225,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_225.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 226,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_226.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 227,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_227.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 228,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_228.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 229,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_229.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 230,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_230.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 231,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_231.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 232,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_232.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 233,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_233.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 234,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_234.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 235,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_235.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 236,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_236.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 237,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_237.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 238,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_238.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 239,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_239.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 240,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_240.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 241,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_241.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 242,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_242.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 243,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_243.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 244,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_244.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 245,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_245.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 246,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_246.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 247,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_247.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 248,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_248.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 249,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_249.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 250,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_250.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 251,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_251.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 252,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_252.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 253,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_253.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 254,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_254.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 255,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_255.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 256,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_256.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 257,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_257.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 258,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_258.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 259,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_259.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 260,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_260.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 261,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_261.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 262,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_262.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 263,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_263.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 264,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_264.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 265,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_265.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 266,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_266.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 267,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_267.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 268,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_268.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 269,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_269.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 270,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_270.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 271,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_271.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 272,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_272.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 273,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_273.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 274,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_274.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 275,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_275.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 276,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_276.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 277,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_277.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 278,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_278.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 279,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_279.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 280,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_280.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 281,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_281.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 282,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_282.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 283,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_283.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 284,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_284.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 285,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_285.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 286,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_286.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 287,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_287.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 288,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_288.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 289,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_289.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 290,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_290.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 291,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_291.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 292,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_292.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 293,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_293.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 294,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_294.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 295,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_295.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 296,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_296.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 297,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_297.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 298,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_298.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 299,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_299.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 300,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_300.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "楷书。"
+  },
+  {
+    "No": 301,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_301.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 302,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_302.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 303,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_303.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 304,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_304.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 305,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_305.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 306,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_306.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 307,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_307.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 308,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_308.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 309,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_309.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 310,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_310.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 311,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_311.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 312,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_312.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 313,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_313.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 314,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_314.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 315,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_315.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 316,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_316.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 317,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_317.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 318,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_318.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 319,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_319.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 320,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_320.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 321,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_321.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 322,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_322.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 323,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_323.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 324,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_324.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 325,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_325.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 326,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_326.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 327,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_327.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 328,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_328.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 329,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_329.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 330,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_330.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 331,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_331.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 332,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_332.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 333,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_333.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 334,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_334.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 335,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_335.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 336,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_336.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 337,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_337.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 338,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_338.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 339,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_339.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 340,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_340.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 341,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_341.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 342,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_342.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 343,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_343.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 344,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_344.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 345,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_345.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 346,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_346.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 347,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_347.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 348,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_348.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 349,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_349.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 350,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_350.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 351,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_351.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 352,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_352.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 353,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_353.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 354,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_354.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 355,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_355.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 356,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_356.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 357,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_357.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 358,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_358.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 359,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_359.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 360,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_360.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 361,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_361.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 362,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_362.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 363,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_363.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 364,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_364.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 365,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_365.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 366,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_366.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 367,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_367.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 368,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_368.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 369,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_369.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 370,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_370.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 371,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_371.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 372,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_372.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 373,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_373.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 374,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_374.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 375,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_375.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 376,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_376.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 377,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_377.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 378,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_378.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 379,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_379.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 380,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_380.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 381,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_381.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 382,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_382.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 383,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_383.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 384,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_384.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 385,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_385.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 386,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_386.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 387,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_387.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 388,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_388.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 389,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_389.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 390,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_390.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 391,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_391.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 392,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_392.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 393,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_393.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 394,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_394.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 395,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_395.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 396,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_396.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 397,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_397.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 398,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_398.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 399,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_399.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  },
+  {
+    "No": 400,
+    "question_type": "image_recognition",
+    "subfield": "calligraphy_recognition",
+    "question": "请判断它最接近的中国书法字体是？<img='datas/calligraphy_recognition_plus/calligraphy_recognition_400.png'>\n请在“行书”“草书”“楷书”“隶书”中选择一个和图片最相近的书法字体，只输出字体名称。",
+    "answer": "隶书。"
+  }
+]

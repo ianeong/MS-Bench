@@ -1,0 +1,2630 @@
+[
+    {
+        "No": 1,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/55705.png>",
+        "options": [],
+        "answer": "無",
+        "explaination": ""
+    },
+    {
+        "No": 2,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/81797.png>",
+        "options": [],
+        "answer": "不",
+        "explaination": ""
+    },
+    {
+        "No": 3,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/3595.png>",
+        "options": [],
+        "answer": "是",
+        "explaination": ""
+    },
+    {
+        "No": 4,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/73627.png>",
+        "options": [],
+        "answer": "如",
+        "explaination": ""
+    },
+    {
+        "No": 5,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/55135.png>",
+        "options": [],
+        "answer": "佛",
+        "explaination": ""
+    },
+    {
+        "No": 6,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/31730.png>",
+        "options": [],
+        "answer": "諸",
+        "explaination": ""
+    },
+    {
+        "No": 7,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/64469.png>",
+        "options": [],
+        "answer": "十",
+        "explaination": ""
+    },
+    {
+        "No": 8,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/44377.png>",
+        "options": [],
+        "answer": "法",
+        "explaination": ""
+    },
+    {
+        "No": 9,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/42583.png>",
+        "options": [],
+        "answer": "尼",
+        "explaination": ""
+    },
+    {
+        "No": 10,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/44057.png>",
+        "options": [],
+        "answer": "大",
+        "explaination": ""
+    },
+    {
+        "No": 11,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/46459.png>",
+        "options": [],
+        "answer": "若",
+        "explaination": ""
+    },
+    {
+        "No": 12,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/47625.png>",
+        "options": [],
+        "answer": "故",
+        "explaination": ""
+    },
+    {
+        "No": 13,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/85034.png>",
+        "options": [],
+        "answer": "所",
+        "explaination": ""
+    },
+    {
+        "No": 14,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/73019.png>",
+        "options": [],
+        "answer": "淨",
+        "explaination": ""
+    },
+    {
+        "No": 15,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/30894.png>",
+        "options": [],
+        "answer": "於",
+        "explaination": ""
+    },
+    {
+        "No": 16,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/3541.png>",
+        "options": [],
+        "answer": "有",
+        "explaination": ""
+    },
+    {
+        "No": 17,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/83412.png>",
+        "options": [],
+        "answer": "切",
+        "explaination": ""
+    },
+    {
+        "No": 18,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/58643.png>",
+        "options": [],
+        "answer": "羅",
+        "explaination": ""
+    },
+    {
+        "No": 19,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/7090.png>",
+        "options": [],
+        "answer": "二",
+        "explaination": ""
+    },
+    {
+        "No": 20,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/68130.png>",
+        "options": [],
+        "answer": "薩",
+        "explaination": ""
+    },
+    {
+        "No": 21,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/91303.png>",
+        "options": [],
+        "answer": "者",
+        "explaination": ""
+    },
+    {
+        "No": 22,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/37736.png>",
+        "options": [],
+        "answer": "我",
+        "explaination": ""
+    },
+    {
+        "No": 23,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/49376.png>",
+        "options": [],
+        "answer": "清",
+        "explaination": ""
+    },
+    {
+        "No": 24,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/19148.png>",
+        "options": [],
+        "answer": "三",
+        "explaination": ""
+    },
+    {
+        "No": 25,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/52184.png>",
+        "options": [],
+        "answer": "菩",
+        "explaination": ""
+    },
+    {
+        "No": 26,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/82308.png>",
+        "options": [],
+        "answer": "言",
+        "explaination": ""
+    },
+    {
+        "No": 27,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/52355.png>",
+        "options": [],
+        "answer": "心",
+        "explaination": ""
+    },
+    {
+        "No": 28,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/9672.png>",
+        "options": [],
+        "answer": "以",
+        "explaination": ""
+    },
+    {
+        "No": 29,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/44023.png>",
+        "options": [],
+        "answer": "時",
+        "explaination": ""
+    },
+    {
+        "No": 30,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/56401.png>",
+        "options": [],
+        "answer": "種",
+        "explaination": ""
+    },
+    {
+        "No": 31,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/17865.png>",
+        "options": [],
+        "answer": "比",
+        "explaination": ""
+    },
+    {
+        "No": 32,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/52050.png>",
+        "options": [],
+        "answer": "世",
+        "explaination": ""
+    },
+    {
+        "No": 33,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/23665.png>",
+        "options": [],
+        "answer": "丘",
+        "explaination": ""
+    },
+    {
+        "No": 34,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/60975.png>",
+        "options": [],
+        "answer": "生",
+        "explaination": ""
+    },
+    {
+        "No": 35,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/45076.png>",
+        "options": [],
+        "answer": "智",
+        "explaination": ""
+    },
+    {
+        "No": 36,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/72340.png>",
+        "options": [],
+        "answer": "得",
+        "explaination": ""
+    },
+    {
+        "No": 37,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/92739.png>",
+        "options": [],
+        "answer": "何",
+        "explaination": ""
+    },
+    {
+        "No": 38,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/47723.png>",
+        "options": [],
+        "answer": "波",
+        "explaination": ""
+    },
+    {
+        "No": 39,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/66412.png>",
+        "options": [],
+        "answer": "經",
+        "explaination": ""
+    },
+    {
+        "No": 40,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/85211.png>",
+        "options": [],
+        "answer": "行",
+        "explaination": ""
+    },
+    {
+        "No": 41,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/29218.png>",
+        "options": [],
+        "answer": "四",
+        "explaination": ""
+    },
+    {
+        "No": 42,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/61104.png>",
+        "options": [],
+        "answer": "利",
+        "explaination": ""
+    },
+    {
+        "No": 43,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/87868.png>",
+        "options": [],
+        "answer": "來",
+        "explaination": ""
+    },
+    {
+        "No": 44,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/74853.png>",
+        "options": [],
+        "answer": "為",
+        "explaination": ""
+    },
+    {
+        "No": 45,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/41205.png>",
+        "options": [],
+        "answer": "中",
+        "explaination": ""
+    },
+    {
+        "No": 46,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/78717.png>",
+        "options": [],
+        "answer": "此",
+        "explaination": ""
+    },
+    {
+        "No": 47,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/41042.png>",
+        "options": [],
+        "answer": "作",
+        "explaination": ""
+    },
+    {
+        "No": 48,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/38342.png>",
+        "options": [],
+        "answer": "眾",
+        "explaination": ""
+    },
+    {
+        "No": 49,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/69005.png>",
+        "options": [],
+        "answer": "人",
+        "explaination": ""
+    },
+    {
+        "No": 50,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/92237.png>",
+        "options": [],
+        "answer": "上",
+        "explaination": ""
+    },
+    {
+        "No": 51,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/71360.png>",
+        "options": [],
+        "answer": "說",
+        "explaination": ""
+    },
+    {
+        "No": 52,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/43181.png>",
+        "options": [],
+        "answer": "等",
+        "explaination": ""
+    },
+    {
+        "No": 53,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/81227.png>",
+        "options": [],
+        "answer": "多",
+        "explaination": ""
+    },
+    {
+        "No": 54,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/72989.png>",
+        "options": [],
+        "answer": "之",
+        "explaination": ""
+    },
+    {
+        "No": 55,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/14099.png>",
+        "options": [],
+        "answer": "能",
+        "explaination": ""
+    },
+    {
+        "No": 56,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/63542.png>",
+        "options": [],
+        "answer": "婆",
+        "explaination": ""
+    },
+    {
+        "No": 57,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/85757.png>",
+        "options": [],
+        "answer": "界",
+        "explaination": ""
+    },
+    {
+        "No": 58,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/10308.png>",
+        "options": [],
+        "answer": "提",
+        "explaination": ""
+    },
+    {
+        "No": 59,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/62703.png>",
+        "options": [],
+        "answer": "呵",
+        "explaination": ""
+    },
+    {
+        "No": 60,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/32501.png>",
+        "options": [],
+        "answer": "子",
+        "explaination": ""
+    },
+    {
+        "No": 61,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/64068.png>",
+        "options": [],
+        "answer": "摩",
+        "explaination": ""
+    },
+    {
+        "No": 62,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/73034.png>",
+        "options": [],
+        "answer": "云",
+        "explaination": ""
+    },
+    {
+        "No": 63,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/5979.png>",
+        "options": [],
+        "answer": "緣",
+        "explaination": ""
+    },
+    {
+        "No": 64,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/52376.png>",
+        "options": [],
+        "answer": "施",
+        "explaination": ""
+    },
+    {
+        "No": 65,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/19082.png>",
+        "options": [],
+        "answer": "而",
+        "explaination": ""
+    },
+    {
+        "No": 66,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/86999.png>",
+        "options": [],
+        "answer": "道",
+        "explaination": ""
+    },
+    {
+        "No": 67,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/18455.png>",
+        "options": [],
+        "answer": "汝",
+        "explaination": ""
+    },
+    {
+        "No": 68,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/1856.png>",
+        "options": [],
+        "answer": "見",
+        "explaination": ""
+    },
+    {
+        "No": 69,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/50628.png>",
+        "options": [],
+        "answer": "彼",
+        "explaination": ""
+    },
+    {
+        "No": 70,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/59713.png>",
+        "options": [],
+        "answer": "伽",
+        "explaination": ""
+    },
+    {
+        "No": 71,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/77317.png>",
+        "options": [],
+        "answer": "自",
+        "explaination": ""
+    },
+    {
+        "No": 72,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/78957.png>",
+        "options": [],
+        "answer": "善",
+        "explaination": ""
+    },
+    {
+        "No": 73,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/45777.png>",
+        "options": [],
+        "answer": "受",
+        "explaination": ""
+    },
+    {
+        "No": 74,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/30147.png>",
+        "options": [],
+        "answer": "阿",
+        "explaination": ""
+    },
+    {
+        "No": 75,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/12298.png>",
+        "options": [],
+        "answer": "僧",
+        "explaination": ""
+    },
+    {
+        "No": 76,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/10969.png>",
+        "options": [],
+        "answer": "尊",
+        "explaination": ""
+    },
+    {
+        "No": 77,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/17311.png>",
+        "options": [],
+        "answer": "衣",
+        "explaination": ""
+    },
+    {
+        "No": 78,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/42590.png>",
+        "options": [],
+        "answer": "王",
+        "explaination": ""
+    },
+    {
+        "No": 79,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/21650.png>",
+        "options": [],
+        "answer": "陀",
+        "explaination": ""
+    },
+    {
+        "No": 80,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/7240.png>",
+        "options": [],
+        "answer": "今",
+        "explaination": ""
+    },
+    {
+        "No": 81,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/91878.png>",
+        "options": [],
+        "answer": "因",
+        "explaination": ""
+    },
+    {
+        "No": 82,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/35227.png>",
+        "options": [],
+        "answer": "安",
+        "explaination": ""
+    },
+    {
+        "No": 83,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/63510.png>",
+        "options": [],
+        "answer": "那",
+        "explaination": ""
+    },
+    {
+        "No": 84,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/39103.png>",
+        "options": [],
+        "answer": "復",
+        "explaination": ""
+    },
+    {
+        "No": 85,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/40375.png>",
+        "options": [],
+        "answer": "身",
+        "explaination": ""
+    },
+    {
+        "No": 86,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/25247.png>",
+        "options": [],
+        "answer": "知",
+        "explaination": ""
+    },
+    {
+        "No": 87,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/84675.png>",
+        "options": [],
+        "answer": "其",
+        "explaination": ""
+    },
+    {
+        "No": 88,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/25268.png>",
+        "options": [],
+        "answer": "空",
+        "explaination": ""
+    },
+    {
+        "No": 89,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/93654.png>",
+        "options": [],
+        "answer": "儻",
+        "explaination": ""
+    },
+    {
+        "No": 90,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/38557.png>",
+        "options": [],
+        "answer": "欲",
+        "explaination": ""
+    },
+    {
+        "No": 91,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/18255.png>",
+        "options": [],
+        "answer": "事",
+        "explaination": ""
+    },
+    {
+        "No": 92,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/29395.png>",
+        "options": [],
+        "answer": "名",
+        "explaination": ""
+    },
+    {
+        "No": 93,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/82333.png>",
+        "options": [],
+        "answer": "至",
+        "explaination": ""
+    },
+    {
+        "No": 94,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/22916.png>",
+        "options": [],
+        "answer": "六",
+        "explaination": ""
+    },
+    {
+        "No": 95,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/58038.png>",
+        "options": [],
+        "answer": "雲",
+        "explaination": ""
+    },
+    {
+        "No": 96,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/41159.png>",
+        "options": [],
+        "answer": "皆",
+        "explaination": ""
+    },
+    {
+        "No": 97,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/52823.png>",
+        "options": [],
+        "answer": "隨",
+        "explaination": ""
+    },
+    {
+        "No": 98,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/53898.png>",
+        "options": [],
+        "answer": "百",
+        "explaination": ""
+    },
+    {
+        "No": 99,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/52216.png>",
+        "options": [],
+        "answer": "量",
+        "explaination": ""
+    },
+    {
+        "No": 100,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/4375.png>",
+        "options": [],
+        "answer": "聖",
+        "explaination": ""
+    },
+    {
+        "No": 101,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/42575.png>",
+        "options": [],
+        "answer": "天",
+        "explaination": ""
+    },
+    {
+        "No": 102,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/67614.png>",
+        "options": [],
+        "answer": "方",
+        "explaination": ""
+    },
+    {
+        "No": 103,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/45570.png>",
+        "options": [],
+        "answer": "號",
+        "explaination": ""
+    },
+    {
+        "No": 104,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/22307.png>",
+        "options": [],
+        "answer": "舍",
+        "explaination": ""
+    },
+    {
+        "No": 105,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/86902.png>",
+        "options": [],
+        "answer": "八",
+        "explaination": ""
+    },
+    {
+        "No": 106,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/68886.png>",
+        "options": [],
+        "answer": "持",
+        "explaination": ""
+    },
+    {
+        "No": 107,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/38620.png>",
+        "options": [],
+        "answer": "與",
+        "explaination": ""
+    },
+    {
+        "No": 108,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/32166.png>",
+        "options": [],
+        "answer": "忍",
+        "explaination": ""
+    },
+    {
+        "No": 109,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/79343.png>",
+        "options": [],
+        "answer": "及",
+        "explaination": ""
+    },
+    {
+        "No": 110,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/2537.png>",
+        "options": [],
+        "answer": "華",
+        "explaination": ""
+    },
+    {
+        "No": 111,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/57673.png>",
+        "options": [],
+        "answer": "寶",
+        "explaination": ""
+    },
+    {
+        "No": 112,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/8719.png>",
+        "options": [],
+        "answer": "戒",
+        "explaination": ""
+    },
+    {
+        "No": 113,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/13137.png>",
+        "options": [],
+        "answer": "出",
+        "explaination": ""
+    },
+    {
+        "No": 114,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/12081.png>",
+        "options": [],
+        "answer": "甲",
+        "explaination": ""
+    },
+    {
+        "No": 115,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/13524.png>",
+        "options": [],
+        "answer": "某",
+        "explaination": ""
+    },
+    {
+        "No": 116,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/18856.png>",
+        "options": [],
+        "answer": "應",
+        "explaination": ""
+    },
+    {
+        "No": 117,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/37204.png>",
+        "options": [],
+        "answer": "巳",
+        "explaination": ""
+    },
+    {
+        "No": 118,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/88128.png>",
+        "options": [],
+        "answer": "住",
+        "explaination": ""
+    },
+    {
+        "No": 119,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/33028.png>",
+        "options": [],
+        "answer": "難",
+        "explaination": ""
+    },
+    {
+        "No": 120,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/5587.png>",
+        "options": [],
+        "answer": "成",
+        "explaination": ""
+    },
+    {
+        "No": 121,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/35534.png>",
+        "options": [],
+        "answer": "卷",
+        "explaination": ""
+    },
+    {
+        "No": 122,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/90666.png>",
+        "options": [],
+        "answer": "亦",
+        "explaination": ""
+    },
+    {
+        "No": 123,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/49135.png>",
+        "options": [],
+        "answer": "蜜",
+        "explaination": ""
+    },
+    {
+        "No": 124,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/82785.png>",
+        "options": [],
+        "answer": "從",
+        "explaination": ""
+    },
+    {
+        "No": 125,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/62683.png>",
+        "options": [],
+        "answer": "彌",
+        "explaination": ""
+    },
+    {
+        "No": 126,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/51974.png>",
+        "options": [],
+        "answer": "沙",
+        "explaination": ""
+    },
+    {
+        "No": 127,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/39206.png>",
+        "options": [],
+        "answer": "乃",
+        "explaination": ""
+    },
+    {
+        "No": 128,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/57090.png>",
+        "options": [],
+        "answer": "海",
+        "explaination": ""
+    },
+    {
+        "No": 129,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/15919.png>",
+        "options": [],
+        "answer": "聞",
+        "explaination": ""
+    },
+    {
+        "No": 130,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/13097.png>",
+        "options": [],
+        "answer": "足",
+        "explaination": ""
+    },
+    {
+        "No": 131,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/11483.png>",
+        "options": [],
+        "answer": "具",
+        "explaination": ""
+    },
+    {
+        "No": 132,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/12936.png>",
+        "options": [],
+        "answer": "和",
+        "explaination": ""
+    },
+    {
+        "No": 133,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/11210.png>",
+        "options": [],
+        "answer": "非",
+        "explaination": ""
+    },
+    {
+        "No": 134,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/50802.png>",
+        "options": [],
+        "answer": "著",
+        "explaination": ""
+    },
+    {
+        "No": 135,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/24938.png>",
+        "options": [],
+        "answer": "常",
+        "explaination": ""
+    },
+    {
+        "No": 136,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/28602.png>",
+        "options": [],
+        "answer": "千",
+        "explaination": ""
+    },
+    {
+        "No": 137,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/81654.png>",
+        "options": [],
+        "answer": "光",
+        "explaination": ""
+    },
+    {
+        "No": 138,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/24808.png>",
+        "options": [],
+        "answer": "樂",
+        "explaination": ""
+    },
+    {
+        "No": 139,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/54562.png>",
+        "options": [],
+        "answer": "已",
+        "explaination": ""
+    },
+    {
+        "No": 140,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/59355.png>",
+        "options": [],
+        "answer": "龍",
+        "explaination": ""
+    },
+    {
+        "No": 141,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/23111.png>",
+        "options": [],
+        "answer": "實",
+        "explaination": ""
+    },
+    {
+        "No": 142,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/45608.png>",
+        "options": [],
+        "answer": "分",
+        "explaination": ""
+    },
+    {
+        "No": 143,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/38678.png>",
+        "options": [],
+        "answer": "他",
+        "explaination": ""
+    },
+    {
+        "No": 144,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/40907.png>",
+        "options": [],
+        "answer": "修",
+        "explaination": ""
+    },
+    {
+        "No": 145,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/2227.png>",
+        "options": [],
+        "answer": "正",
+        "explaination": ""
+    },
+    {
+        "No": 146,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/62603.png>",
+        "options": [],
+        "answer": "帝",
+        "explaination": ""
+    },
+    {
+        "No": 147,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/62337.png>",
+        "options": [],
+        "answer": "地",
+        "explaination": ""
+    },
+    {
+        "No": 148,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/45710.png>",
+        "options": [],
+        "answer": "處",
+        "explaination": ""
+    },
+    {
+        "No": 149,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/37549.png>",
+        "options": [],
+        "answer": "離",
+        "explaination": ""
+    },
+    {
+        "No": 150,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/91653.png>",
+        "options": [],
+        "answer": "真",
+        "explaination": ""
+    },
+    {
+        "No": 151,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/4799.png>",
+        "options": [],
+        "answer": "在",
+        "explaination": ""
+    },
+    {
+        "No": 152,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/33098.png>",
+        "options": [],
+        "answer": "師",
+        "explaination": ""
+    },
+    {
+        "No": 153,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/49476.png>",
+        "options": [],
+        "answer": "别",
+        "explaination": ""
+    },
+    {
+        "No": 154,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/68658.png>",
+        "options": [],
+        "answer": "七",
+        "explaination": ""
+    },
+    {
+        "No": 155,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/47670.png>",
+        "options": [],
+        "answer": "勝",
+        "explaination": ""
+    },
+    {
+        "No": 156,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/17259.png>",
+        "options": [],
+        "answer": "問",
+        "explaination": ""
+    },
+    {
+        "No": 157,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/6132.png>",
+        "options": [],
+        "answer": "語",
+        "explaination": ""
+    },
+    {
+        "No": 158,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/45844.png>",
+        "options": [],
+        "answer": "斷",
+        "explaination": ""
+    },
+    {
+        "No": 159,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/33817.png>",
+        "options": [],
+        "answer": "捨",
+        "explaination": ""
+    },
+    {
+        "No": 160,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/38987.png>",
+        "options": [],
+        "answer": "然",
+        "explaination": ""
+    },
+    {
+        "No": 161,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/34244.png>",
+        "options": [],
+        "answer": "德",
+        "explaination": ""
+    },
+    {
+        "No": 162,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/38251.png>",
+        "options": [],
+        "answer": "願",
+        "explaination": ""
+    },
+    {
+        "No": 163,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/43019.png>",
+        "options": [],
+        "answer": "即",
+        "explaination": ""
+    },
+    {
+        "No": 164,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/28547.png>",
+        "options": [],
+        "answer": "信",
+        "explaination": ""
+    },
+    {
+        "No": 165,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/25715.png>",
+        "options": [],
+        "answer": "令",
+        "explaination": ""
+    },
+    {
+        "No": 166,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/25889.png>",
+        "options": [],
+        "answer": "女",
+        "explaination": ""
+    },
+    {
+        "No": 167,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/32063.png>",
+        "options": [],
+        "answer": "相",
+        "explaination": ""
+    },
+    {
+        "No": 168,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/74303.png>",
+        "options": [],
+        "answer": "明",
+        "explaination": ""
+    },
+    {
+        "No": 169,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/70072.png>",
+        "options": [],
+        "answer": "現",
+        "explaination": ""
+    },
+    {
+        "No": 170,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/17764.png>",
+        "options": [],
+        "answer": "廣",
+        "explaination": ""
+    },
+    {
+        "No": 171,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/88713.png>",
+        "options": [],
+        "answer": "求",
+        "explaination": ""
+    },
+    {
+        "No": 172,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/89820.png>",
+        "options": [],
+        "answer": "謂",
+        "explaination": ""
+    },
+    {
+        "No": 173,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/50805.png>",
+        "options": [],
+        "answer": "精",
+        "explaination": ""
+    },
+    {
+        "No": 174,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/52716.png>",
+        "options": [],
+        "answer": "數",
+        "explaination": ""
+    },
+    {
+        "No": 175,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/22137.png>",
+        "options": [],
+        "answer": "逸",
+        "explaination": ""
+    },
+    {
+        "No": 176,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/88483.png>",
+        "options": [],
+        "answer": "慧",
+        "explaination": ""
+    },
+    {
+        "No": 177,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/7569.png>",
+        "options": [],
+        "answer": "悉",
+        "explaination": ""
+    },
+    {
+        "No": 178,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/21357.png>",
+        "options": [],
+        "answer": "去",
+        "explaination": ""
+    },
+    {
+        "No": 179,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/42338.png>",
+        "options": [],
+        "answer": "尒",
+        "explaination": ""
+    },
+    {
+        "No": 180,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/72970.png>",
+        "options": [],
+        "answer": "妙",
+        "explaination": ""
+    },
+    {
+        "No": 181,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/15393.png>",
+        "options": [],
+        "answer": "白",
+        "explaination": ""
+    },
+    {
+        "No": 182,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/8868.png>",
+        "options": [],
+        "answer": "惡",
+        "explaination": ""
+    },
+    {
+        "No": 183,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/29850.png>",
+        "options": [],
+        "answer": "喜",
+        "explaination": ""
+    },
+    {
+        "No": 184,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/15620.png>",
+        "options": [],
+        "answer": "門",
+        "explaination": ""
+    },
+    {
+        "No": 185,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/983.png>",
+        "options": [],
+        "answer": "或",
+        "explaination": ""
+    },
+    {
+        "No": 186,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/31300.png>",
+        "options": [],
+        "answer": "就",
+        "explaination": ""
+    },
+    {
+        "No": 187,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/42800.png>",
+        "options": [],
+        "answer": "力",
+        "explaination": ""
+    },
+    {
+        "No": 188,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/503.png>",
+        "options": [],
+        "answer": "過",
+        "explaination": ""
+    },
+    {
+        "No": 189,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/54684.png>",
+        "options": [],
+        "answer": "意",
+        "explaination": ""
+    },
+    {
+        "No": 190,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/74164.png>",
+        "options": [],
+        "answer": "情",
+        "explaination": ""
+    },
+    {
+        "No": 191,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/32422.png>",
+        "options": [],
+        "answer": "可",
+        "explaination": ""
+    },
+    {
+        "No": 192,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/72355.png>",
+        "options": [],
+        "answer": "則",
+        "explaination": ""
+    },
+    {
+        "No": 193,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/25954.png>",
+        "options": [],
+        "answer": "便",
+        "explaination": ""
+    },
+    {
+        "No": 194,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/31834.png>",
+        "options": [],
+        "answer": "集",
+        "explaination": ""
+    },
+    {
+        "No": 195,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/3214.png>",
+        "options": [],
+        "answer": "須",
+        "explaination": ""
+    },
+    {
+        "No": 196,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/92536.png>",
+        "options": [],
+        "answer": "苦",
+        "explaination": ""
+    },
+    {
+        "No": 197,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/76177.png>",
+        "options": [],
+        "answer": "教",
+        "explaination": ""
+    },
+    {
+        "No": 198,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/72170.png>",
+        "options": [],
+        "answer": "嚴",
+        "explaination": ""
+    },
+    {
+        "No": 199,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/80775.png>",
+        "options": [],
+        "answer": "達",
+        "explaination": ""
+    },
+    {
+        "No": 200,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/18646.png>",
+        "options": [],
+        "answer": "迦",
+        "explaination": ""
+    },
+    {
+        "No": 201,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/76922.png>",
+        "options": [],
+        "answer": "識",
+        "explaination": ""
+    },
+    {
+        "No": 202,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/74988.png>",
+        "options": [],
+        "answer": "化",
+        "explaination": ""
+    },
+    {
+        "No": 203,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/74897.png>",
+        "options": [],
+        "answer": "入",
+        "explaination": ""
+    },
+    {
+        "No": 204,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/47437.png>",
+        "options": [],
+        "answer": "性",
+        "explaination": ""
+    },
+    {
+        "No": 205,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/90040.png>",
+        "options": [],
+        "answer": "往",
+        "explaination": ""
+    },
+    {
+        "No": 206,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/51621.png>",
+        "options": [],
+        "answer": "轉",
+        "explaination": ""
+    },
+    {
+        "No": 207,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/82894.png>",
+        "options": [],
+        "answer": "神",
+        "explaination": ""
+    },
+    {
+        "No": 208,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/64769.png>",
+        "options": [],
+        "answer": "缽",
+        "explaination": ""
+    },
+    {
+        "No": 209,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/38525.png>",
+        "options": [],
+        "answer": "滅",
+        "explaination": ""
+    },
+    {
+        "No": 210,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/83596.png>",
+        "options": [],
+        "answer": "果",
+        "explaination": ""
+    },
+    {
+        "No": 211,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/82986.png>",
+        "options": [],
+        "answer": "聲",
+        "explaination": ""
+    },
+    {
+        "No": 212,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/26323.png>",
+        "options": [],
+        "answer": "家",
+        "explaination": ""
+    },
+    {
+        "No": 213,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/80876.png>",
+        "options": [],
+        "answer": "色",
+        "explaination": ""
+    },
+    {
+        "No": 214,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/61554.png>",
+        "options": [],
+        "answer": "耶",
+        "explaination": ""
+    },
+    {
+        "No": 215,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/84077.png>",
+        "options": [],
+        "answer": "覺",
+        "explaination": ""
+    },
+    {
+        "No": 216,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/32119.png>",
+        "options": [],
+        "answer": "用",
+        "explaination": ""
+    },
+    {
+        "No": 217,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/44192.png>",
+        "options": [],
+        "answer": "解",
+        "explaination": ""
+    },
+    {
+        "No": 218,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/33991.png>",
+        "options": [],
+        "answer": "各",
+        "explaination": ""
+    },
+    {
+        "No": 219,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/22195.png>",
+        "options": [],
+        "answer": "頭",
+        "explaination": ""
+    },
+    {
+        "No": 220,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/2297.png>",
+        "options": [],
+        "answer": "夜",
+        "explaination": ""
+    },
+    {
+        "No": 221,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/72703.png>",
+        "options": [],
+        "answer": "香",
+        "explaination": ""
+    },
+    {
+        "No": 222,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/18225.png>",
+        "options": [],
+        "answer": "障",
+        "explaination": ""
+    },
+    {
+        "No": 223,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/27640.png>",
+        "options": [],
+        "answer": "竟",
+        "explaination": ""
+    },
+    {
+        "No": 224,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/39588.png>",
+        "options": [],
+        "answer": "盡",
+        "explaination": ""
+    },
+    {
+        "No": 225,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/50653.png>",
+        "options": [],
+        "answer": "曰",
+        "explaination": ""
+    },
+    {
+        "No": 226,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/59909.png>",
+        "options": [],
+        "answer": "南",
+        "explaination": ""
+    },
+    {
+        "No": 227,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/23699.png>",
+        "options": [],
+        "answer": "誦",
+        "explaination": ""
+    },
+    {
+        "No": 228,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/35610.png>",
+        "options": [],
+        "answer": "供",
+        "explaination": ""
+    },
+    {
+        "No": 229,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/65330.png>",
+        "options": [],
+        "answer": "毗",
+        "explaination": ""
+    },
+    {
+        "No": 230,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/76082.png>",
+        "options": [],
+        "answer": "度",
+        "explaination": ""
+    },
+    {
+        "No": 231,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/6918.png>",
+        "options": [],
+        "answer": "莊",
+        "explaination": ""
+    },
+    {
+        "No": 232,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/92172.png>",
+        "options": [],
+        "answer": "本",
+        "explaination": ""
+    },
+    {
+        "No": 233,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/56853.png>",
+        "options": [],
+        "answer": "普",
+        "explaination": ""
+    },
+    {
+        "No": 234,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/44025.png>",
+        "options": [],
+        "answer": "惱",
+        "explaination": ""
+    },
+    {
+        "No": 235,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/80259.png>",
+        "options": [],
+        "answer": "告",
+        "explaination": ""
+    },
+    {
+        "No": 236,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/65985.png>",
+        "options": [],
+        "answer": "九",
+        "explaination": ""
+    },
+    {
+        "No": 237,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/43681.png>",
+        "options": [],
+        "answer": "山",
+        "explaination": ""
+    },
+    {
+        "No": 238,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/28199.png>",
+        "options": [],
+        "answer": "勒",
+        "explaination": ""
+    },
+    {
+        "No": 239,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/28816.png>",
+        "options": [],
+        "answer": "聽",
+        "explaination": ""
+    },
+    {
+        "No": 240,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/92078.png>",
+        "options": [],
+        "answer": "惟",
+        "explaination": ""
+    },
+    {
+        "No": 241,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/80344.png>",
+        "options": [],
+        "answer": "了",
+        "explaination": ""
+    },
+    {
+        "No": 242,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/60426.png>",
+        "options": [],
+        "answer": "主",
+        "explaination": ""
+    },
+    {
+        "No": 243,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/23109.png>",
+        "options": [],
+        "answer": "答",
+        "explaination": ""
+    },
+    {
+        "No": 244,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/83107.png>",
+        "options": [],
+        "answer": "音",
+        "explaination": ""
+    },
+    {
+        "No": 245,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/28608.png>",
+        "options": [],
+        "answer": "訶",
+        "explaination": ""
+    },
+    {
+        "No": 246,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/82289.png>",
+        "options": [],
+        "answer": "致",
+        "explaination": ""
+    },
+    {
+        "No": 247,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/1799.png>",
+        "options": [],
+        "answer": "呼",
+        "explaination": ""
+    },
+    {
+        "No": 248,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/50634.png>",
+        "options": [],
+        "answer": "又",
+        "explaination": ""
+    },
+    {
+        "No": 249,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/21258.png>",
+        "options": [],
+        "answer": "起",
+        "explaination": ""
+    },
+    {
+        "No": 250,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/68850.png>",
+        "options": [],
+        "answer": "閻",
+        "explaination": ""
+    },
+    {
+        "No": 251,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/64800.png>",
+        "options": [],
+        "answer": "浮",
+        "explaination": ""
+    },
+    {
+        "No": 252,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/30713.png>",
+        "options": [],
+        "answer": "想",
+        "explaination": ""
+    },
+    {
+        "No": 253,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/88673.png>",
+        "options": [],
+        "answer": "進",
+        "explaination": ""
+    },
+    {
+        "No": 254,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/84124.png>",
+        "options": [],
+        "answer": "通",
+        "explaination": ""
+    },
+    {
+        "No": 255,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/32279.png>",
+        "options": [],
+        "answer": "爾",
+        "explaination": ""
+    },
+    {
+        "No": 256,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/37212.png>",
+        "options": [],
+        "answer": "向",
+        "explaination": ""
+    },
+    {
+        "No": 257,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/30686.png>",
+        "options": [],
+        "answer": "功",
+        "explaination": ""
+    },
+    {
+        "No": 258,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/16022.png>",
+        "options": [],
+        "answer": "釋",
+        "explaination": ""
+    },
+    {
+        "No": 259,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/4370.png>",
+        "options": [],
+        "answer": "邊",
+        "explaination": ""
+    },
+    {
+        "No": 260,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/55582.png>",
+        "options": [],
+        "answer": "觀",
+        "explaination": ""
+    },
+    {
+        "No": 261,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/56650.png>",
+        "options": [],
+        "answer": "思",
+        "explaination": ""
+    },
+    {
+        "No": 262,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/79303.png>",
+        "options": [],
+        "answer": "養",
+        "explaination": ""
+    },
+    {
+        "No": 263,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/32787.png>",
+        "options": [],
+        "answer": "猶",
+        "explaination": ""
+    },
+    {
+        "No": 264,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/38487.png>",
+        "options": [],
+        "answer": "屬",
+        "explaination": ""
+    },
+    {
+        "No": 265,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/22096.png>",
+        "options": [],
+        "answer": "乘",
+        "explaination": ""
+    },
+    {
+        "No": 266,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/74567.png>",
+        "options": [],
+        "answer": "證",
+        "explaination": ""
+    },
+    {
+        "No": 267,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/29396.png>",
+        "options": [],
+        "answer": "爲",
+        "explaination": ""
+    },
+    {
+        "No": 268,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/14486.png>",
+        "options": [],
+        "answer": "長",
+        "explaination": ""
+    },
+    {
+        "No": 269,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/2610.png>",
+        "options": [],
+        "answer": "車",
+        "explaination": ""
+    },
+    {
+        "No": 270,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/19778.png>",
+        "options": [],
+        "answer": "責",
+        "explaination": ""
+    },
+    {
+        "No": 271,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/90380.png>",
+        "options": [],
+        "answer": "遮",
+        "explaination": ""
+    },
+    {
+        "No": 272,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/43392.png>",
+        "options": [],
+        "answer": "病",
+        "explaination": ""
+    },
+    {
+        "No": 273,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/88552.png>",
+        "options": [],
+        "answer": "根",
+        "explaination": ""
+    },
+    {
+        "No": 274,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/9247.png>",
+        "options": [],
+        "answer": "乞",
+        "explaination": ""
+    },
+    {
+        "No": 275,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/14163.png>",
+        "options": [],
+        "answer": "食",
+        "explaination": ""
+    },
+    {
+        "No": 276,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/64635.png>",
+        "options": [],
+        "answer": "跋",
+        "explaination": ""
+    },
+    {
+        "No": 277,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/76482.png>",
+        "options": [],
+        "answer": "殊",
+        "explaination": ""
+    },
+    {
+        "No": 278,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/43462.png>",
+        "options": [],
+        "answer": "業",
+        "explaination": ""
+    },
+    {
+        "No": 279,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/73838.png>",
+        "options": [],
+        "answer": "定",
+        "explaination": ""
+    },
+    {
+        "No": 280,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/60799.png>",
+        "options": [],
+        "answer": "囉",
+        "explaination": ""
+    },
+    {
+        "No": 281,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/6955.png>",
+        "options": [],
+        "answer": "勤",
+        "explaination": ""
+    },
+    {
+        "No": 282,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/85228.png>",
+        "options": [],
+        "answer": "布",
+        "explaination": ""
+    },
+    {
+        "No": 283,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/82395.png>",
+        "options": [],
+        "answer": "唯",
+        "explaination": ""
+    },
+    {
+        "No": 284,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/8529.png>",
+        "options": [],
+        "answer": "還",
+        "explaination": ""
+    },
+    {
+        "No": 285,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/39461.png>",
+        "options": [],
+        "answer": "義",
+        "explaination": ""
+    },
+    {
+        "No": 286,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/69155.png>",
+        "options": [],
+        "answer": "流",
+        "explaination": ""
+    },
+    {
+        "No": 287,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/87509.png>",
+        "options": [],
+        "answer": "未",
+        "explaination": ""
+    },
+    {
+        "No": 288,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/23490.png>",
+        "options": [],
+        "answer": "國",
+        "explaination": ""
+    },
+    {
+        "No": 289,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/64162.png>",
+        "options": [],
+        "answer": "闍",
+        "explaination": ""
+    },
+    {
+        "No": 290,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/70339.png>",
+        "options": [],
+        "answer": "論",
+        "explaination": ""
+    },
+    {
+        "No": 291,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/32002.png>",
+        "options": [],
+        "answer": "積",
+        "explaination": ""
+    },
+    {
+        "No": 292,
+        "question_type": "ocr",
+        "subfield": "variant-character",
+        "question": "请判断出这张图是哪个字的异体字。<img=datas/variant/56399.png>",
+        "options": [],
+        "answer": "滿",
+        "explaination": ""
+    }
+]

@@ -1,0 +1,524 @@
+[
+    {
+        "No": 1,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/1.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 2,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/5.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 3,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/24.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 4,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/25.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 5,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/26.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 6,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/27.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 7,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/42.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 8,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/48.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 30
+    },
+    {
+        "No": 9,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/120.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 10,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/152.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 35
+    },
+    {
+        "No": 11,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/154.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 23
+    },
+    {
+        "No": 12,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/167.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 15
+    },
+    {
+        "No": 13,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/182.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 15
+    },
+    {
+        "No": 14,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/183.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 15
+    },
+    {
+        "No": 15,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/184.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 15
+    },
+    {
+        "No": 16,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/222.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 18
+    },
+    {
+        "No": 17,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/259.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 18,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/280.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 18
+    },
+    {
+        "No": 19,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/289.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 16
+    },
+    {
+        "No": 20,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/294.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 21,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/301.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 22,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/312.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 16
+    },
+    {
+        "No": 23,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/314.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 24,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/321.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 25,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/329.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 20
+    },
+    {
+        "No": 26,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/347.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 18
+    },
+    {
+        "No": 27,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/349.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 28,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/350.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 29,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/353.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 30,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/360.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 37
+    },
+    {
+        "No": 31,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/368.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 20
+    },
+    {
+        "No": 32,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/376.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 33,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/380.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 34,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/385.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 23
+    },
+    {
+        "No": 35,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/429.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 36,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/439.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 24
+    },
+    {
+        "No": 37,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/491.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 38,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/510.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 39,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/516.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 40,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/518.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 41,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/520.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 42,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/522.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 43,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/527.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 44,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/552.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 45,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/575.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 46,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/576.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 20
+    },
+    {
+        "No": 47,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/578.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 48,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/579.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 49,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/603.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 50,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/632.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 51,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/633.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 20
+    },
+    {
+        "No": 52,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/717.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 16
+    },
+    {
+        "No": 53,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/718.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 10
+    },
+    {
+        "No": 54,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/780.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 55,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/781.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 56,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/786.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 10
+    },
+    {
+        "No": 57,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/849.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    },
+    {
+        "No": 58,
+        "question_type": "image",
+        "subfield": "count_average",
+        "question": "请你根据给出的残卷，计算残卷中平均每列有多少字。只输出数字。<img='datas/count_sample/856.jpg'>",
+        "options": [],
+        "explaination": "",
+        "answer": 17
+    }
+]

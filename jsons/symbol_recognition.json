@@ -1,0 +1,3649 @@
+[
+    {
+        "No": 1,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_1_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 2,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_2_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 3,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_3_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 4,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_4_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 5,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_5_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 6,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_6_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 7,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_7_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 8,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_8_1.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 9,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_9_1.png'>",
+        "answer": "停顿号"
+    },
+    {
+        "No": 10,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_10_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 11,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_11_1.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 12,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_12_1.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 13,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_13_1.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 14,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_14_1.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 15,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_15_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 16,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_16_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 17,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_17_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 18,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_18_1.png'>",
+        "answer": "省代号"
+    },
+    {
+        "No": 19,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_19_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 20,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_19_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 21,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_21_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 22,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_22_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 23,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_23_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 24,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_24_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 25,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_25_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 26,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_26_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 27,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_27_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 28,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_28_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 29,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_29_1.png'>",
+        "answer": "省代号"
+    },
+    {
+        "No": 30,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_30_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 31,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_30_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 32,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_30_3.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 33,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_33_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 34,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_33_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 35,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_35_1.png'>",
+        "answer": "省代号"
+    },
+    {
+        "No": 36,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_36_1.png'>",
+        "answer": "省代号"
+    },
+    {
+        "No": 37,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_37_1.png'>",
+        "answer": "省代号"
+    },
+    {
+        "No": 38,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_38_1.png'>",
+        "answer": "省代号"
+    },
+    {
+        "No": 39,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_39_1.png'>",
+        "answer": "省代号"
+    },
+    {
+        "No": 40,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_40_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 41,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_41_1.png'>",
+        "answer": "省代号"
+    },
+    {
+        "No": 42,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_42_1.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 43,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_43_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 44,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_44_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 45,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_44_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 46,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_46_1.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 47,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_47_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 48,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_47_2.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 49,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_47_3.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 50,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_50_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 51,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_50_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 52,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_52_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 53,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_53_1.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 54,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_54_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 55,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_54_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 56,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_54_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 57,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_57_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 58,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_58_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 59,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_59_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 60,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_60_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 61,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_60_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 62,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_62_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 63,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_62_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 64,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_64_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 65,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_64_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 66,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_64_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 67,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_64_4.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 68,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_64_5.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 69,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_64_6.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 70,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_70_1.png'>",
+        "answer": "停顿号"
+    },
+    {
+        "No": 71,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_70_2.png'>",
+        "answer": "停顿号"
+    },
+    {
+        "No": 72,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_70_3.png'>",
+        "answer": "停顿号"
+    },
+    {
+        "No": 73,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_70_4.png'>",
+        "answer": "停顿号"
+    },
+    {
+        "No": 74,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_70_5.png'>",
+        "answer": "停顿号"
+    },
+    {
+        "No": 75,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_70_6.png'>",
+        "answer": "停顿号"
+    },
+    {
+        "No": 76,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_76_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 77,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_76_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 78,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_76_3.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 79,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_79_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 80,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_79_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 81,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_81_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 82,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_81_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 83,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_81_3.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 84,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_84_1.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 85,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_84_2.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 86,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_86_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 87,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_86_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 88,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_86_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 89,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_89_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 90,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_89_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 91,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_89_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 92,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_92_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 93,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_93_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 94,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_94_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 95,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_95_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 96,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_95_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 97,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_97_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 98,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_97_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 99,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_99_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 100,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_100_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 101,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_101_1.png'>",
+        "answer": "停顿号"
+    },
+    {
+        "No": 102,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_102_1.png'>",
+        "answer": "停顿号"
+    },
+    {
+        "No": 103,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_103_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 104,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_103_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 105,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_105_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 106,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_106_1.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 107,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_107_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 108,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_107_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 109,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中＋的特殊符号。<img='datas/symbol_recognition/symbol_recognition_109_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 110,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中＋的特殊符号。<img='datas/symbol_recognition/symbol_recognition_109_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 111,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_111_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 112,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_111_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 113,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_111_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 114,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_111_4.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 115,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_115_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 116,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_115_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 117,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_117_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 118,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_117_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 119,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_117_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 120,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_120_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 121,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_120_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 122,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_120_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 123,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_120_4.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 124,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_124_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 125,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_124_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 126,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_126_1.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 127,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_126_2.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 128,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_126_3.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 129,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_129_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 130,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_130_1.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 131,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_130_2.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 132,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_130_3.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 133,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_130_4.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 134,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_130_5.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 135,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_130_6.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 136,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_136_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 137,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_136_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 138,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_136_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 139,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_139_1.png'>",
+        "answer": "停顿号"
+    },
+    {
+        "No": 140,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_140_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 141,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_141_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 142,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_141_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 143,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_143_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 144,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_144_1.png'>",
+        "answer": "停顿号"
+    },
+    {
+        "No": 145,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_145_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 146,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_146_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 147,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_146_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 148,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_146_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 149,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_149_1.png'>",
+        "answer": "停顿号"
+    },
+    {
+        "No": 150,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_149_2.png'>",
+        "answer": "停顿号"
+    },
+    {
+        "No": 151,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_151_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 152,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_151_2.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 153,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_153_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 154,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_154_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 155,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_155_1.png'>",
+        "answer": "停顿号"
+    },
+    {
+        "No": 156,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_156_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 157,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_156_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 158,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_156_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 159,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_156_4.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 160,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_160_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 161,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_160_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 162,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_162_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 163,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_163_1.png'>",
+        "answer": "停顿号"
+    },
+    {
+        "No": 164,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_164_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 165,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_165_1.png'>",
+        "answer": "停顿号"
+    },
+    {
+        "No": 166,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_166_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 167,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_166_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 168,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_166_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 169,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_166_4.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 170,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_166_5.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 171,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_166_6.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 172,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_166_7.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 173,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_166_8.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 174,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_166_9.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 175,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_166_10.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 176,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_166_11.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 177,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_166_12.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 178,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_166_13.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 179,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_179_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 180,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_180_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 181,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_181_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 182,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_182_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 183,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_183_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 184,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_183_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 185,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_185_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 186,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_186_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 187,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_186_2.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 188,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_186_3.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 189,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_186_4.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 190,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_190_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 191,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_191_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 192,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_191_2.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 193,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_191_3.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 194,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_191_4.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 195,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_191_5.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 196,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_196_1.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 197,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_196_2.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 198,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_196_3.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 199,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_196_4.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 200,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_196_5.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 201,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_196_6.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 202,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_202_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 203,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_202_2.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 204,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_204_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 205,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_204_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 206,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_206_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 207,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_207_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 208,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_207_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 209,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_207_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 210,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_207_4.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 211,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_211_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 212,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_211_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 213,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_213_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 214,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_214_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 215,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_215_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 216,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_216_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 217,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_216_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 218,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_216_3.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 219,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_216_4.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 220,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_216_5.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 221,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_216_6.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 222,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_216_7.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 223,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_223_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 224,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_223_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 225,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_225_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 226,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_226_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 227,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_226_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 228,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_228_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 229,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_229_1.png'>",
+        "answer": "停顿号"
+    },
+    {
+        "No": 230,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_230_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 231,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_230_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 232,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_230_3.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 233,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_233_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 234,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_233_2.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 235,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_235_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 236,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_236_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 237,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_237_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 238,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_238_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 239,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_239_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 240,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_240_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 241,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_240_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 242,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_240_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 243,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_243_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 244,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_244_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 245,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_245_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 246,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_246_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 247,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_247_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 248,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_248_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 249,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_248_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 250,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_250_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 251,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_250_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 252,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_252_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 253,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_253_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 254,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_253_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 255,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_253_3.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 256,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_253_4.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 257,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_253_5.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 258,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_253_6.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 259,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_259_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 260,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_259_2.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 261,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_261_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 262,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_261_2.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 263,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_263_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 264,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_263_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 265,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_265_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 266,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_265_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 267,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_265_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 268,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_268_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 269,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_268_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 270,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_268_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 271,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_268_4.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 272,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_272_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 273,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_273_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 274,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_273_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 275,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_275_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 276,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_275_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 277,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_277_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 278,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_278_1.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 279,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_279_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 280,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_279_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 281,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_279_3.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 282,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_282_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 283,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_282_2.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 284,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_284_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 285,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_284_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 286,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_286_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 287,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_287_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 288,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_288_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 289,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_289_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 290,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_289_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 291,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_291_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 292,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_291_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 293,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_293_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 294,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_293_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 295,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_293_3.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 296,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_296_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 297,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_296_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 298,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_298_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 299,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_298_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 300,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_298_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 301,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_298_4.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 302,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_298_5.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 303,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_298_6.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 304,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_298_7.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 305,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_305_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 306,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_305_2.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 307,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_307_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 308,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_307_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 309,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_307_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 310,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_307_4.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 311,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_307_5.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 312,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_307_6.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 313,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_307_7.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 314,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_307_8.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 315,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_307_9.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 316,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_307_10.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 317,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_307_11.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 318,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_307_12.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 319,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_307_13.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 320,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_320_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 321,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_320_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 322,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_322_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 323,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_322_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 324,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_324_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 325,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_325_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 326,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_325_2.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 327,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_325_3.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 328,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_328_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 329,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_329_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 330,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_330_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 331,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_331_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 332,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_331_2.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 333,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_333_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 334,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_334_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 335,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_334_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 336,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_336_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 337,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_336_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 338,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_336_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 339,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_336_4.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 340,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_336_5.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 341,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_341_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 342,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_342_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 343,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_343_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 344,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_344_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 345,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_345_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 346,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_346_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 347,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_347_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 348,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_348_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 349,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_348_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 350,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_350_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 351,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_350_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 352,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_350_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 353,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_353_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 354,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_354_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 355,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_355_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 356,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中、的特殊符号。<img='datas/symbol_recognition/symbol_recognition_356_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 357,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_357_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 358,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_358_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 359,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_359_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 360,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_359_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 361,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_361_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 362,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_362_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 363,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_363_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 364,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_363_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 365,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_365_1.png'>",
+        "answer": "停顿号"
+    },
+    {
+        "No": 366,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_365_2.png'>",
+        "answer": "停顿号"
+    },
+    {
+        "No": 367,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_367_1.png'>",
+        "answer": "停顿号"
+    },
+    {
+        "No": 368,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_368_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 369,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_368_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 370,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_370_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 371,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_370_2.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 372,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_372_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 373,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_373_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 374,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_374_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 375,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_375_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 376,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_376_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 377,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_376_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 378,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_376_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 379,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_376_4.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 380,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_376_5.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 381,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_376_6.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 382,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_382_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 383,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_382_2.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 384,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_384_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 385,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_384_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 386,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_384_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 387,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_387_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 388,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_388_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 389,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_389_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 390,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_390_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 391,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_391_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 392,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_392_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 393,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_392_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 394,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_392_3.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 395,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_395_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 396,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_395_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 397,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_397_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 398,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_397_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 399,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_399_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 400,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_400_1.png'>",
+        "answer": "停顿号"
+    },
+    {
+        "No": 401,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_401_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 402,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_401_2.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 403,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_403_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 404,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_404_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 405,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_405_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 406,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_406_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 407,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_406_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 408,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_408_1.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 409,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_409_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 410,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_410_1.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 411,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_410_2.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 412,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_410_3.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 413,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_410_4.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 414,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_414_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 415,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_415_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 416,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_415_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 417,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_417_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 418,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_417_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 419,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_417_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 420,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_420_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 421,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_421_1.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 422,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_422_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 423,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_423_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 424,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_423_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 425,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_423_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 426,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_426_1.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 427,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_426_2.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 428,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_426_3.png'>",
+        "answer": "重文号"
+    },
+    {
+        "No": 429,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_429_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 430,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_429_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 431,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_431_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 432,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_431_2.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 433,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_431_3.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 434,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_431_4.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 435,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_431_5.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 436,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_436_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 437,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_436_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 438,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_438_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 439,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_438_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 440,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_438_3.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 441,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_438_4.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 442,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_438_5.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 443,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_438_6.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 444,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_438_7.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 445,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_438_8.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 446,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_438_9.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 447,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_438_10.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 448,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_448_1.png'>",
+        "answer": "停顿号"
+    },
+    {
+        "No": 449,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_448_2.png'>",
+        "answer": "停顿号"
+    },
+    {
+        "No": 450,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_450_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 451,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_450_2.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 452,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_450_3.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 453,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_453_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 454,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_454_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 455,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_454_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 456,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_456_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 457,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_456_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 458,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_458_1.png'>",
+        "answer": "停顿号"
+    },
+    {
+        "No": 459,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_459_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 460,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_459_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 461,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_459_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 462,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_459_4.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 463,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_463_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 464,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_463_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 465,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_463_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 466,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_463_4.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 467,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_463_5.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 468,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_468_1.png'>",
+        "answer": "阅读顺序连接"
+    },
+    {
+        "No": 469,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_468_2.png'>",
+        "answer": "阅读顺序连接"
+    },
+    {
+        "No": 470,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_468_3.png'>",
+        "answer": "阅读顺序连接"
+    },
+    {
+        "No": 471,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_468_4.png'>",
+        "answer": "阅读顺序连接"
+    },
+    {
+        "No": 472,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_468_5.png'>",
+        "answer": "阅读顺序连接"
+    },
+    {
+        "No": 473,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_468_6.png'>",
+        "answer": "阅读顺序连接"
+    },
+    {
+        "No": 474,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_468_7.png'>",
+        "answer": "阅读顺序连接"
+    },
+    {
+        "No": 475,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_475_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 476,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_475_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 477,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_477_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 478,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_478_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 479,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_478_2.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 480,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_478_3.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 481,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_481_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 482,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_481_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 483,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_483_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 484,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_484_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 485,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_485_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 486,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_485_2.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 487,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_485_3.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 488,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_488_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 489,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_488_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 490,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_490_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 491,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_490_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 492,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_492_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 493,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_492_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 494,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_494_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 495,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_495_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 496,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_495_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 497,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_497_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 498,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_497_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 499,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_497_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 500,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_497_4.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 501,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_501_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 502,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_501_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 503,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_501_3.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 504,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_504_1.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 505,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_504_2.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 506,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_504_3.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 507,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_504_4.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 508,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_504_5.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 509,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_504_6.png'>",
+        "answer": "层次号"
+    },
+    {
+        "No": 510,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_510_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 511,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_510_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 512,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_510_3.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 513,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_513_1.png'>",
+        "answer": "钩乙号"
+    },
+    {
+        "No": 514,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_514_1.png'>",
+        "answer": "停顿号"
+    },
+    {
+        "No": 515,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_515_1.png'>",
+        "answer": "停顿号"
+    },
+    {
+        "No": 516,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_516_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 517,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_516_2.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 518,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_518_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 519,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_519_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 520,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_520_1.png'>",
+        "answer": "删字号"
+    },
+    {
+        "No": 521,
+        "question_type": "image_recognition",
+        "subfield": "symbol_recognition",
+        "question": "请找出图中的特殊符号。<img='datas/symbol_recognition/symbol_recognition_521_1.png'>",
+        "answer": "钩乙号"
+    }
+]

@@ -34,10 +34,79 @@ We adhere to the following three principles:
 
 > Details of our **MS-Bench**
 
-## 📊 Dataset Availability
+## 📊 Dataset
 
-Our dataset has been released on [Harvard Dataverse](https://doi.org/10.7910/DVN/MKRTMN).  
+The dataset contains **images** and a **json file** with prompt of each task. 
+
+Our dataset has been released on [Google Drive](https://drive.google.com/file/d/1P0nlkG_AKGf9LRd1QJMNBj2gYh4B8SAS/view?usp=drive_link).  
 You can access and download it via the link above.
+
+## 🚀 Usage: Running Benchmarks via API
+
+You can evaluate your preferred LLM on MS-Bench using API access (e.g., OpenAI, Anthropic, etc.). Follow the steps below:
+
+#### 1. Prepare API Configuration
+
+Create a new JSON file inside the `api/` directory that stores your model’s API information. For example:
+
+```json
+// api/gpt-4o.json
+{
+  "api_key": "YOUR_API_KEY",
+  "base_url": "https://api.openai.com/v1",
+  "model_name": "gpt-4o"
+}
+```
+
+This file will be loaded at runtime to query the model.
+
+#### 2. Set Up Model-Specific Code Directory
+
+Each model should have its own directory under code/. We recommend naming it the same as your model (e.g., gpt-4o).
+
+You can create it by copying an existing model folder (e.g., gpt-4o) as a template:
+
+```bash
+mkdir code/my-model-name
+cp code/gpt-4o *.py code/my-model-name
+```
+
+NOTE: the model name should be the same as the model_name in your json file!
+
+#### 3. Run the Benchmark
+
+Change directory to your model-specific code folder and execute the benchmark
+
+**run a particular task**
+```bash
+cd code/my-model-name
+python YOUR_PARTICULAR_TASK.py  # e.g. python manuscript_ocr.py
+```
+
+**run ALL tasks**
+```bash
+cd code/my-model-name
+python run_all_tasks.py
+```
+This script will:
+
+- Load task prompts and questions from the MS-Bench dataset
+
+- Query your specified model via API
+
+- Save outputs to output/{model_name}/ for further evaluation
+
+#### 4. Output Structure
+After execution, results will be saved to output/{model_name}, like:
+
+```pgsql
+output/
+└── my-model-name/
+    ├── manuscript_ocr_model_name.json
+    ├── image_caption_model_name.json
+    └── ...
+```
+Each file contains model responses for the corresponding sub-task group.
 
 ## 🧪Performance Benchmark on Different Tasks
 

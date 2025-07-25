@@ -1,0 +1,317 @@
+[
+    {
+        "No": 1,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_1.png'>",
+        "answer": "此像以赭石量染，突出观骨、眉齅、鼻梁、下颌，再于颅顶两颊染以浅青，表现刚剃削光净的须发。在流畅、顿挫的中墨勾勒之后，用焦墨书出土眼睑、嘴角、下唇；点出炯炯有神的雄性。作者以刚劲而纯熟的几描使一位性格鲜明、神采奕奕的高僧一千二百数十年的星霜，那双会说话的眼睛、会发音的嘴唇，至今还使观众如受其瞬、如闻其声，有强烈的艺术感染力。"
+    },
+    {
+        "No": 2,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_2.png'>",
+        "answer": "这是在龛内壁上的项光。项光之后是平绘的胁持弟子与菩提，同前列塑像大势至、阿难（均毁）形成前后层次。这种绘塑结合显示了高度的统一与华丽。现存壁画造型典雅、赋色厚重，与绚丽的项光相映衬，形成了盛唐时代佛教艺术浓厚的成熟气象。"
+    },
+    {
+        "No": 3,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_3.png'>",
+        "answer": "项光是佛、菩萨、弟子头后的光环。由于绘直序项后面故称项光，又名头光。这是佛教经典中所说三十二大人相之一，以显示佛、菩萨的灵异。二十二大人相之一种，以精致著称。它以五色莲花为中心，外环两圈，一为白底联环连瓣，一为青底一整一破小圆形，由青、绿、朱、白分层叠量。每一纹样均精叠细染、一丝不苟，使四种色彩变化丰富，交错相映。它是盛唐图案中有名的代表作。"
+    },
+    {
+        "No": 4,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_4.png'>",
+        "answer": "图片中是大势至菩萨。大势至是释迦右侧最为重要的协侍菩萨，从以智慧光，普照一切，令离三途，得无上力而得名。此窟帐门右侧所绘之大势至亭亭玉立，面颜庄重，遍身绮罗；薄绢轻纱，多层笼罩。脚踏青莲、锦裙纱纤覆盖其上，将这位姿态端严、容貌慈祥的菩萨塑造得楚楚动人。"
+    },
+    {
+        "No": 5,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_5.png'>",
+        "answer": "这是大势至菩萨胸像。头戴宝瓶冠是大势至菩萨的特征。面颊叠映，细长的双目垂视下方，神态庄严。双手交掌向外作法界印，置于胸下。肩披薄纱长巾，透出层层饰带，胸着织锦络腋，棋格纹样灿若云霞。色彩艳丽厚重，意匠、笔墨极为工整。"
+    },
+    {
+        "No": 6,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_6.png'>",
+        "answer": "观音菩萨与众不同，额上多生坚眼。此为佛教禅宗深为尊崇的准提观音，意为「清净」。这在盛唐壁画中的属少见，虽未出现晚期三日十八臂之形，额上一眼已标明他在观音群像中的特殊称谓。菩萨鹦鹉原为浅亮的白色，朱砂约出轮廓线，青发、翠眉、朱唇，当时一定触目耀眼。现在肉体面部的浅亮色变得沉着、厚重的褐黑色，朱砂变为乳白，只有青绿尚为鲜明。这一变色情况形成了这一时期壁画特有的格调。从细部可以看出，珠冠中有「化佛」，是观音形象的特征。面颜造型圆润丰满；珠宝项师、披巾凯锡与罗衣璎珞极为华丽。右手执青莲花，绿叶生舒，使人面花颜互相辉映，极富意趣。"
+    },
+    {
+        "No": 7,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_7.png'>",
+        "answer": "这是藻井。藻井位于窑顶中央，状如华盖，是窑顶最华丽的装饰。此图中心方并以八瓣莲花为基本格局，层层铺衍，形成格律。中心小莲花作放射状展开，嵌以云头、石榴，重叠间锁；外层四方环饰以波状卷草、一整二破小团花、垂鳞、垂角等带状纹饰；外围铸线物垂衬。结构严谨，赋色精细。叠革色调浓丽、热烈，具有强烈的装饰效果。"
+    },
+    {
+        "No": 8,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_8.png'>",
+        "answer": "此图有以文殊师利为首的包括大势至、不休息、药王、宝月、满月、无量力、跋陀婆罗、宝积等九位菩萨。他们或坐或立，参差错落，身段优美：褐黑色的肉体上严饰纱披锦裙、珠刻璎珞。这种以朱红翠绿为主调的色彩对比在亮色的光环亲映中格外鲜艳夺目，独具一格。文殊身后书妙庄严王，头戴远游冠，笏板、深衣，一派中国帝王装束。"
+    },
+    {
+        "No": 9,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_9.png'>",
+        "answer": "这群菩萨位于佛陀右肋，共九位。他们是观世音、常精进、宝掌、勇施、月光、大力、越三界、弥勒、导师等，虽与西侧众菩萨对称，但各有变化。或翻看梵筊，或俯首静思，或合十听讲，或举盘供养，情态生动，增加了演说《法华经》时诸听众的庄严虔诚气氛。众菩萨冠服披饰大体相似，与相对的菩萨群十分和谐。"
+    },
+    {
+        "No": 10,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_10.png'>",
+        "answer": "这是释迦灵山说法图两协听法的组菩萨。南侧五身，除一位侧面举炉献香者（下部已毁）外，其余四位均坐莲花上，隆鼻、长目、厚唇，面颜丰圆，宝冠多样，与同窟南北经楼中的菩萨颇相异趣。"
+    },
+    {
+        "No": 11,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_11.png'>",
+        "answer": "这是释迦灵山说法图两协听法的组菩萨。北侧五身，除一位侧面献花者外（下部已毁），均结跏坐于莲台听法。菩萨丰胸圆背，晕染厚重、沉着。由于东壁背阳避风，色彩男友变化，但多数尚属鲜丽。特别是锦裙、冠钏，完整醒目。"
+    },
+    {
+        "No": 12,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_12.png'>",
+        "answer": "这幅阿弥陀净土中创作了成组的建筑，有楼，有亭，有台，有阁，在同一个视点里，使成组的建筑物形成宏伟富丽的环境，绣柱飞檐，雕栏玉砌，亭利屋脊高低参差富于变化。各色飞天穿阁洞户，更表现出楼阁亭台的玲珑剔透，配上流动的不鼓自鸣的天乐，形成一幅充满想象的富丽的梦幻境界。"
+    },
+    {
+        "No": 13,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_13.png'>",
+        "answer": "韦提希夫人跪于宝池前观想。宝池为七宝琉璃砌成，前后左右有绿色丘峦掩映，坐具后有榆柳杂树，墨色浓淡、用笔轻重，尚能辨识。"
+    },
+    {
+        "No": 14,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_14.png'>",
+        "answer": "这是观音经变。为表现观音菩萨救济诸种苦难中的「遇毒龙恶鬼难」，壁画中画一男子耸肩颤栗、双手合十，左右「恶鬼」，右有毒龙、蝮蛇，爪牙相向，十分畏怖。远处画有山峦，构图极富装饰意味。"
+    },
+    {
+        "No": 15,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_15.png'>",
+        "answer": "这是一幅说法图。释迦牟尼佛结跏趺坐，手结“转法轮印”，额间白毫发光，上有化佛六身前来听法。四菩萨侍立两侧，前有护法金刚力士二身，供养菩萨两身分踞东西。此图色彩绚丽，晕染柔和，用笔遒劲婀娜。"
+    },
+    {
+        "No": 16,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌飞天图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_16.png'>",
+        "answer": "图片上有飞天，头戴三珠宝冠，面相丰圆，挥臂散花，上身袒裸，身形修长，细腰，下着羊肠裙，巾带长而宽，表现出动感的节奏。"
+    },
+    {
+        "No": 17,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌飞天图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_17.png'>",
+        "answer": "在火燄纹背光一侧绘两身飞天。上一身伸臂屈腿，奋力飞行；后一身双手捧花，回首呼应。巾带缠绕，色彩冷艳，丰圆的“小字脸”，可看出原来晕染的痕迹。"
+    },
+    {
+        "No": 18,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌飞天图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_18.png'>",
+        "answer": "这是一幅藻井飞天。藻井浮塑斗四莲花火珠图案，外岔角处随形就势画四身飞天。飞天身体修长，三身双臂平伸执巾，右手上扬，左手下勾；一身伸右臂，左臂弯曲。造型上的变化，避免了单调。"
+    },
+    {
+        "No": 19,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌飞天图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_19.png'>",
+        "answer": "这是一幅屈腿飞天。飞天左腿前屈，右腿后扬，左手持巾，右手捧花盘，简单数笔可看出动作的张扬和关节的屈伸，颇有印度画风。右侧飞天侧身双手托盘供养，与左侧飞天，一开一合，相互映衬。"
+    },
+    {
+        "No": 20,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌飞天图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_20.png'>",
+        "answer": "在本生故事“割肉贸鸽”中，三身飞天在尸毗王上方飞舞，上身袒裸，下穿束脚裤，有的伸臂，有的双手合十，颂扬尸毗王的牺牲精神。粗线绘染，简练粗犷。"
+    },
+    {
+        "No": 21,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌飞天图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_21.png'>",
+        "answer": "在蓝色火焰纹背光的上方，绘大莲花和飞天，飞天面相丰圆，大眼大鼻，佩饰大耳环，细腰束裙，粗矿生动。画面为二十世纪六十年代从西夏壁画下剥离出来的北魏原画，因此色彩鲜艳，叠染的层次清晰，从中可见当时的勾线与敷彩技法。"
+    },
+    {
+        "No": 22,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌飞天图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_22.png'>",
+        "answer": "在火焰忍冬纹龛楣之上画一佛二菩萨，两侧各画五身飞天飞翔。有的袒裸上身，有的右袒，下均着裙，裙和披巾摆动如羽翼。有的演奏横笛、凤头琴，有的捧盘献花，姿态各异，飘然而至。"
+    },
+    {
+        "No": 23,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌飞天图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_23.png'>",
+        "answer": "在天宫栏楯之上，绘伎乐飞天一周。飞天头梳双髻（又称飞天髻），有赭红或黑色头光，双手弹奏乐器，身着中原汉式大袍，披飘带，袍下摆在风中呈牙旗形翻摇，表现出飞动感。白发，未着色，肌肤用中原式晕染法，层次清晰可见，服饰色彩鲜艳如初。"
+    },
+    {
+        "No": 24,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌飞天图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_24.png'>",
+        "answer": "这是摩尼宝珠飞天。在覆斗形窟顶上，绘两身有羽翼的力士托举莲花摩尼宝珠，飞天左右护持，均头梳发髻，饰花朵，面部清瘦，羊肠裙和巾带如火焰纹向上飘动。此瘦骨清像为中原式女性形象。"
+    },
+    {
+        "No": 25,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌飞天图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_25.png'>",
+        "answer": "这是一幅伎乐飞天图片。飞天为白鼻白眼的西域式小字脸，袒裸上身，着长裙，披长巾，一身用手拍击齐鼓，另一身吹奏竖笛。变色后的肤色仍可看出传自西域的凹凸法晕染效果。"
+    },
+    {
+        "No": 26,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌飞天图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_26.png'>",
+        "answer": "飞天头戴宝冠，卷发，裸上身，下着石青色长裙，披黑色长巾，前腿盘屈外露，裙带上扬，仿佛迎风而来。"
+    },
+    {
+        "No": 27,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌飞天图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_27.png'>",
+        "answer": "这是一幅起舞飞天。华盖一侧飞天身穿玄色长袍，中原形象，舞蹈中伸手握住龙尾。下一身飞天面相丰圆，身形健壮，袒裸上身，着长裙，双脚倒垂，作拗腰肢姿态，为西域形象。构图巧妙有趣。"
+    },
+    {
+        "No": 28,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌飞天图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_28.png'>",
+        "answer": "两身的飞天头梳发髻，裸上身，双手合十，花叶从手中生出，下穿窄裙紧带，秀骨飘逸，相对飞翔。面部和服饰均为线描加晕染，增强了立体感。"
+    },
+    {
+        "No": 29,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌飞天图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_29.png'>",
+        "answer": "两身伎乐飞天，一拍腰鼓，一吹竖笛。拍鼓者，腰鼓斜置胸前，双手上下拍击。吹竖笛者返身回首，与之呼应，姿态优美生动。"
+    },
+    {
+        "No": 30,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌飞天图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_30.png'>",
+        "answer": "飞天两臂前伸遮住面容，一腿直伸，一腿回缩，赤足着裙，仿佛投身向佛，又像在水中游泳，姿态奇特。周围彩云有如水花。"
+    },
+    {
+        "No": 31,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_31.png'>",
+        "answer": "龛内一佛二菩萨，佛善通肩袈裟，内着僧祗支，菩萨上身半裸，下穿锦裙，项饰璎珞，造型敦厚朴拙。"
+    },
+    {
+        "No": 32,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_32.png'>",
+        "answer": "龛内一佛二菩萨，佛结跏趺坐于双狮宝座，两旁二菩萨侍立，菩萨形象较苗条。龛内佛两侧画弟子像10身，龛顶画飞天二身。"
+    },
+    {
+        "No": 33,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_33.png'>",
+        "answer": "正龛北侧的佛弟子是表现年长的迦叶形象，他瘦骨嶙峋，胸前的肋骨历历可见，前额上布满了皱纹，一幅饱经沧桑的老僧形象。"
+    },
+    {
+        "No": 34,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_34.png'>",
+        "answer": "菩萨头戴宝冠，项饰璎珞，一手提净瓶，一手上举，似握莲花（已失），她目光下视，表情慈祥温婉，皮肤莹洁细腻，表现出一位端庄美丽的少女形象。"
+    },
+    {
+        "No": 35,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_35.png'>",
+        "answer": "这几身菩萨身体健硕，手托供品，神态虔诚，画家把西域式晕染法与中原式晕染法结合起来，表现肌肤，富有质感，又以金色妆点头冠和璎珞等，显得富丽华贵。"
+    },
+    {
+        "No": 36,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_36.png'>",
+        "answer": "右侧一条河流从山间流下，两人落水中，水边观音菩萨正在救助他们。左侧有多人乘船行驶于水中，水里出现凶猛的怪兽和罗刹鬼等，这也是表现人们在遇到危难之时，只要口念观音，即可消灾免难。"
+    },
+    {
+        "No": 37,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_37.png'>",
+        "answer": "这是敦煌石窟平棋图案。平棋以斗四星罗，中心绘莲花图案，四边饰忍冬纹，岔角绘飞天，棋格之间隔带绘以鹤、孔雀等图案。"
+    },
+    {
+        "No": 38,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_38.png'>",
+        "answer": "困倦的马夫手握缰绳蹲在地上，已经熟睡。三匹马悠闲地在旁，这些马体魄健壮，与传世的韩干所绘的马非常相似。"
+    },
+    {
+        "No": 39,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_39.png'>",
+        "answer": "水月观音在敦煌五代北宋以后较为流行，这是北宋的水月观音，观音菩萨坐在水边的一片岩石上，神态娴雅，身后有修竹数枝，下部有沙行和俗人观礼。"
+    },
+    {
+        "No": 40,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_40.png'>",
+        "answer": "中央绘两个力士托举着摩尼宝珠，宝珠两旁是伏羲、女娲。下部还画有飞天及飞廉等神兽。最下部绘有禅僧。"
+    },
+    {
+        "No": 41,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_41.png'>",
+        "answer": "上部圆圈内乘马车的是日天，日天下面两个力士乘一辆风车，其中一力士双手托着上面的日天。日天旁边六个椭圆形内画日天的眷属，下面是供养菩萨。"
+    },
+    {
+        "No": 42,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_42.png'>",
+        "answer": "在山林间，除了静谧苦修外，还画出了许多的野兽以及豺狼。这猎人正在捕捉一头牦牛，画家刻画出猎人专注的神情，那张弓也被大大地拉张了。"
+    },
+    {
+        "No": 43,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_43.png'>",
+        "answer": "图片中有一身伎乐飞天。这身飞天轻盈地飞行于彩云之间，清瘦的面庞，苗条的身躯，颀长的手指，反映了魏晋以来的“秀骨清像”为美的审美倾向。"
+    },
+    {
+        "No": 44,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_44.png'>",
+        "answer": "两身菩萨足踏莲座，头戴花蔓冠，一身倒向右，二菩萨低头交谈，嘴角微启，似乎发出会心的微笑。"
+    },
+    {
+        "No": 45,
+        "question_type": "image_recognition",
+        "subfield": "image_caption",
+        "question": "这是一张敦煌石窟图片，请用鉴赏的语言描述图片内容。<img='datas/image_caption/image_caption_45.png'>",
+        "answer": "这是一张说法图。这说法图场面较大，佛在中央结跏趺坐，两手作说法印，旁边有四弟子，四菩萨，菩萨头戴花蔓冠，体态修长，下部有供养人行列。"
+    }
+]

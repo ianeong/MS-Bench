@@ -1,0 +1,2564 @@
+[
+    {
+        "No": 1,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_58.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_94.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 2,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_96.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_24.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 3,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_82.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_97.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 4,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_99.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_48.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 5,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_14.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_101.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 6,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_102.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_72.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 7,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_38.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_104.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 8,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_106.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_4.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 9,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_62.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_107.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 10,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_109.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_28.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 11,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_86.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_110.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 12,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_112.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_52.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 13,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_18.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_114.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 14,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_115.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_76.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 15,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_42.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_117.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 16,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_119.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_8.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 17,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_66.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_120.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 18,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_122.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_32.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 19,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_90.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_123.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 20,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_125.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_56.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 21,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_22.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_127.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 22,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_128.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_80.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 23,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_46.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_130.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 24,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_132.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_12.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 25,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_70.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_133.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 26,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_135.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_36.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 27,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_2.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_137.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 28,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_138.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_60.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 29,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_26.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_140.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 30,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_141.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_84.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 31,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_50.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_143.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 32,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_145.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_16.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 33,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_74.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_146.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 34,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_148.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_40.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 35,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_6.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_150.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 36,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_151.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_64.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 37,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_30.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_153.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 38,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_154.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_88.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 39,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_54.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_156.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 40,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_158.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_20.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 41,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_78.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_159.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 42,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_161.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_44.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 43,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_10.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_163.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 44,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_164.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_68.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 45,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_34.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_166.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 46,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_167.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_92.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 47,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_58.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_169.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 48,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_171.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_24.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 49,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_82.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_172.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 50,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_174.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_48.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 51,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_14.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_176.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 52,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_177.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_72.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 53,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_38.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_179.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 54,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_181.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_4.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 55,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_62.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_182.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 56,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_184.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_28.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 57,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_270.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_94.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 58,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_98.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_236.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 59,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_248.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_101.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 60,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_104.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_260.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 61,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_272.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_107.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 62,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_111.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_238.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 63,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_250.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_114.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 64,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_117.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_262.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 65,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_274.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_120.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 66,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_124.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_240.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 67,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_252.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_127.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 68,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_130.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_264.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 69,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_276.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_133.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 70,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_137.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_242.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 71,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_254.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_140.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 72,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_143.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_266.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 73,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_232.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_147.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 74,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_150.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_244.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 75,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_256.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_153.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 76,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_156.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_268.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 77,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_234.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_160.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 78,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_163.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_246.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 79,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_258.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_166.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 80,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_169.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_270.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 81,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_236.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_173.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 82,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_176.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_248.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 83,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_260.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_179.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 84,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_182.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_272.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 85,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_192.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_94.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 86,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_97.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_204.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 87,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_216.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_100.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 88,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_103.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_228.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 89,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_194.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_107.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 90,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_110.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_206.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 91,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_218.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_113.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 92,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_116.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_230.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 93,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_196.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_120.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 94,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_123.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_208.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 95,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_220.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_126.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 96,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_130.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_186.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 97,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_198.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_133.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 98,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_136.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_210.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 99,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_222.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_139.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 100,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_143.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_188.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 101,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_200.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_146.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 102,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_149.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_212.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 103,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_224.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_152.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 104,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_156.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_190.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 105,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_202.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_159.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 106,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_162.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_214.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 107,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_226.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_165.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 108,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_169.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_192.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 109,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_204.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_172.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 110,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_175.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_216.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 111,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_228.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_178.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 112,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_182.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_194.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 113,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_114.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_1.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 114,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_2.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_172.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 115,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_138.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_4.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 116,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_6.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_104.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 117,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_162.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_7.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 118,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_9.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_128.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 119,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_94.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_11.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 120,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_12.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_152.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 121,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_118.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_14.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 122,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_15.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_176.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 123,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_142.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_17.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 124,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_19.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_108.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 125,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_166.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_20.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 126,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_22.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_132.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 127,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_98.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_24.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 128,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_25.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_156.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 129,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_122.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_27.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 130,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_28.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_180.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 131,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_146.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_30.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 132,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_32.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_112.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 133,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_170.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_33.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 134,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_35.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_136.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 135,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_102.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_37.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 136,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_38.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_160.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 137,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_126.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_40.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 138,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_41.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_184.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 139,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_150.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_43.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 140,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_45.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_116.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 141,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_174.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_46.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 142,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_48.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_140.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 143,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_106.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_50.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 144,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_51.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_164.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 145,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_130.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_53.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 146,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_55.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_96.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 147,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_154.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_56.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 148,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_58.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_120.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 149,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_178.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_59.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 150,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_61.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_144.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 151,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_110.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_63.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 152,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_64.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_168.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 153,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_134.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_66.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 154,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_68.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_100.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 155,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_158.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_69.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 156,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_71.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_124.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 157,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_182.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_72.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 158,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_74.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_148.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 159,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_114.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_76.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 160,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_77.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_172.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 161,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_138.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_79.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 162,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_81.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_104.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 163,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_162.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_82.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 164,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_84.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_128.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 165,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_94.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_86.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 166,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_87.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_152.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 167,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_118.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_89.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 168,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_90.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_176.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 169,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_142.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_92.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 170,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_3.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_246.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 171,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_258.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_6.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 172,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_9.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_270.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 173,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_236.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_13.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 174,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_16.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_248.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 175,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_260.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_19.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 176,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_22.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_272.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 177,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_238.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_26.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 178,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_29.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_250.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 179,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_262.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_32.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 180,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_35.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_274.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 181,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_240.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_39.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 182,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_42.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_252.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 183,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_264.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_45.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 184,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_48.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_276.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 185,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_242.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_52.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 186,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_55.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_254.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 187,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_266.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_58.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 188,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_62.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_232.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 189,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_244.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_65.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 190,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_68.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_256.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 191,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_268.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_71.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 192,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_75.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_234.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 193,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_246.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_78.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 194,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_81.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_258.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 195,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_270.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_84.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 196,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_88.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_236.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 197,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_248.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_91.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 198,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_2.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_214.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 199,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_226.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_5.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 200,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_9.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_192.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 201,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_204.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_12.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 202,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_15.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_216.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 203,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_228.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_18.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 204,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_22.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_194.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 205,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_206.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_25.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 206,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_28.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_218.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 207,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_230.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_31.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 208,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_35.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_196.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 209,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_208.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_38.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 210,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_41.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_220.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 211,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_186.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_45.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 212,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_48.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_198.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 213,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_210.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_51.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 214,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_54.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_222.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 215,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_188.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_58.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 216,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_61.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_200.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 217,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_212.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_64.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 218,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_67.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_224.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 219,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_190.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_71.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 220,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_74.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_202.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 221,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_214.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_77.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 222,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_80.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_226.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 223,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_192.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_84.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 224,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_87.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_204.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 225,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_216.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_90.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 226,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_231.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_136.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 227,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_102.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_233.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 228,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_234.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_160.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 229,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_126.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_236.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 230,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_237.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_184.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 231,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_150.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_239.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 232,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_241.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_116.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 233,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_174.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_242.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 234,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_244.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_140.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 235,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_106.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_246.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 236,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_247.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_164.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 237,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_130.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_249.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 238,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_251.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_96.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 239,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_154.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_252.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 240,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_254.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_120.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 241,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_178.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_255.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 242,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_257.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_144.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 243,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_110.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_259.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 244,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_260.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_168.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 245,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_134.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_262.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 246,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_264.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_100.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 247,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_158.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_265.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 248,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_267.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_124.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 249,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_182.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_268.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 250,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_270.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_148.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 251,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_114.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_272.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 252,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_273.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_172.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 253,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_138.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_275.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 254,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_231.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_12.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 255,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_70.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_232.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 256,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_234.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_36.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 257,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_2.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_236.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 258,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_237.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_60.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 259,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_26.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_239.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 260,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_240.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_84.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 261,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_50.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_242.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 262,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_244.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_16.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 263,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_74.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_245.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 264,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_247.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_40.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 265,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_6.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_249.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 266,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_250.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_64.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 267,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_30.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_252.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 268,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_253.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_88.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 269,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_54.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_255.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 270,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_257.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_20.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 271,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_78.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_258.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 272,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_260.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_44.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 273,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_10.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_262.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 274,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_263.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_68.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 275,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_34.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_265.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 276,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_266.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_92.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 277,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_58.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_268.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 278,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_270.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_24.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 279,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_82.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_271.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 280,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_273.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_48.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 281,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_14.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_275.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 282,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_276.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_72.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 283,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_222.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_233.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 284,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_237.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_188.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 285,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_200.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_240.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 286,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_243.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_212.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 287,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_224.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_246.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 288,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_250.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_190.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 289,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_202.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_253.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 290,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_256.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_214.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 291,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_226.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_259.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 292,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_263.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_192.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 293,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_204.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_266.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 294,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_269.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_216.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 295,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_228.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_272.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 296,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_276.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_194.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 297,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_114.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_186.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 298,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_187.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_172.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 299,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_138.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_189.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 300,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_191.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_104.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 301,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_162.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_192.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 302,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_194.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_128.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 303,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_94.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_196.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 304,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_197.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_152.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 305,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_118.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_199.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 306,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_200.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_176.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 307,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_142.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_202.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 308,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_204.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_108.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 309,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_166.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_205.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 310,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_207.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_132.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 311,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_98.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_209.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 312,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_210.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_156.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 313,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_122.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_212.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 314,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_213.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_180.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 315,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_146.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_215.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 316,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_217.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_112.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 317,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_170.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_218.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 318,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_220.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_136.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 319,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_102.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_222.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 320,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_223.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_160.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 321,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_126.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_225.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 322,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_226.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_184.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 323,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_150.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_228.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 324,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_230.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_116.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 325,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_82.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_185.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 326,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_187.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_48.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 327,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_14.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_189.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 328,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_190.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_72.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 329,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_38.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_192.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 330,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_194.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_4.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 331,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_62.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_195.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 332,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_197.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_28.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 333,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_86.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_198.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 334,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_200.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_52.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 335,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_18.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_202.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 336,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_203.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_76.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 337,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_42.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_205.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 338,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_207.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_8.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 339,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_66.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_208.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 340,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_210.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_32.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 341,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_90.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_211.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 342,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_213.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_56.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 343,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_22.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_215.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 344,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_216.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_80.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 345,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_46.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_218.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 346,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_220.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_12.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 347,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_70.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_221.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 348,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_223.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_36.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 349,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_2.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_225.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 350,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_226.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_60.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 351,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_26.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_228.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 352,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_229.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_84.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 353,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_234.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_186.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 354,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_189.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_246.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 355,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_258.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_192.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 356,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_195.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_270.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 357,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_236.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_199.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 358,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_202.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_248.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 359,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_260.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_205.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 360,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_208.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_272.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 361,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_238.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_212.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 362,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_215.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_250.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 363,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_262.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_218.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 364,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_221.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_274.png'>？",
+        "answer": "是"
+    },
+    {
+        "No": 365,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_240.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_225.png'>？",
+        "answer": "否"
+    },
+    {
+        "No": 366,
+        "question_type": "image_recognition",
+        "subfield": "date_determination_binary",
+        "question": "下面有两张不同年代的敦煌壁画，请判断图片1<img='datas/date_determination/date_determination_228.png'>的年代是否早于图片2<img='datas/date_determination/date_determination_252.png'>？",
+        "answer": "是"
+    }
+]
