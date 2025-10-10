@@ -7,6 +7,7 @@
 [![Paper](https://img.shields.io/badge/NeurIPS%202025-Paper-green)](https://neurips.cc/virtual/2025/poster/121478)
 [![GitHub stars](https://img.shields.io/github/stars/ianeong/MS-Bench.svg?style=social)](https://github.com/ianeong/MS-Bench)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 <small><sup>*</sup> Equal Contribution</small>
 
 
