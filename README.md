@@ -2,6 +2,7 @@
 
 # MS-Bench: A Multimodal Benchmark for Evaluating Large Language Models in Ancient Manuscript Study [NEURIPS 2025 Datasets and Benchmarks Track🔥]
 
+
 **Yuqing Zhang** <sup> * </sup> · **Yue Han** <sup>*</sup>  · **Shuanghe Zhu**· **Haoxiang Wu** · **Hangqi Li** ·  **Shengyu Zhang**· **Junchi Yan** · **Zemin Liu** · **Kun Kuang** · **Huaiyong Dou** · **Yongquan Zhang** · **Fei Wu**
 
 [![Paper](https://img.shields.io/badge/NeurIPS%202025-Paper-green)](https://neurips.cc/virtual/2025/poster/121478)
@@ -10,18 +11,17 @@
 
 <small><sup>*</sup> Equal Contribution</small>
 
+</div>
 
-<hr style="border: none; height: 3px; background: linear-gradient(to right, #d4af37, #b8860b, #d4af37); margin: 20px 0;">
+<hr style="border: none; height: 3px; background: linear-gradient(to right, #d4af37, #b8860b, #d4af37); margin: 20px 0;"> 
 
 
 ⭐ If you like our project, please give us a star on GitHub for the latest updates!
 
-<hr style="border: none; height: 3px; background: linear-gradient(to right, #d4af37, #b8860b, #d4af37); margin: 20px 0;">
+<hr style="border: none; height: 3px; background: linear-gradient(to right, #d4af37, #b8860b, #d4af37); margin: 20px 0;"> 
 
 
 ![overview](figures/overview.png)
-
-
 ## 🔍 Overview
 
 Analyzing ancient manuscripts has traditionally been a labor-intensive and time-consuming task for philologists. Recent advancements in LMMs have demonstrated their potential across various domains, yet their effectiveness in manuscript study remains largely unexplored. 
