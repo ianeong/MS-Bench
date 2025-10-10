@@ -1,8 +1,25 @@
-# MS-Bench: A Multimodal Benchmark for Evaluating Large Language Models in Ancient Manuscript Study
+<div align="center">
+
+# MS-Bench: A Multimodal Benchmark for Evaluating Large Language Models in Ancient Manuscript Study [NEURIPS 2025 Datasets and Benchmarks Track🔥]
+
+**Yuqing Zhang** <sup> * </sup> · **Yue Han** <sup>*</sup>  · **Shuanghe Zhu**· **Haoxiang Wu** · **Hangqi Li** ·  **Shengyu Zhang**· **Junchi Yan** · **Zemin Liu** · **Kun Kuang** · **Huaiyong Dou** · **Yongquan Zhang** · **Fei Wu**
+
+[![arXiv](https://img.shields.io/badge/arXiv-2502.14865-b31b1b.svg)](https://arxiv.org/abs/2502.14865)
+[![GitHub stars](https://img.shields.io/github/stars/ianeong/MS-Bench.svg?style=social)](https://github.com/ianeong/MS-Bench)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+<small><sup>*</sup> Equal Contribution</small>
+
+
+<hr style="border: none; height: 3px; background: linear-gradient(to right, #d4af37, #b8860b, #d4af37); margin: 20px 0;">
+
+
+⭐ If you like our project, please give us a star on GitHub for the latest updates!
+
+<hr style="border: none; height: 3px; background: linear-gradient(to right, #d4af37, #b8860b, #d4af37); margin: 20px 0;">
+
+
 ![overview](figures/overview.png)
 
-This repository contains the code and benchmark suite for our NeurIPS 2025 submission:
-**"MS-Bench: A Multimodal Benchmark for Evaluating Large Language Models in Ancient Manuscript Study"**.
 
 ## 🔍 Overview
 
