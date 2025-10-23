@@ -51,7 +51,9 @@ We adhere to the following three principles:
 
 **(3) Large-scale Multi-source Data Curation:** Centered on the most extensive and diverse collection of Dunhuang manuscripts, MS-Bench integrates 5,076 high-resolution images and 9982 Q&A pairs. 
 
-![details_table](figures/details_table.png)
+<p align="center">
+  <img src="figures/details_table.png" alt="details_table" width="90%">
+</p>
 
 > Details of our **MS-Bench**
 
@@ -136,33 +138,37 @@ Each file contains model responses for the corresponding sub-task group.
 <summary>Results on textual recognition tasks (click to expand)</summary>
 
 
-
-![Recognition Task Result](figures/textual_recognition_results.png)
+<p align="center">
+  <img src="figures/textual_recognition_results.png" alt="textual_recognition_results" width="90%">
+</p>
 
 </details>
 
 <details>
 <summary>Results on the textual analysis tasks (click to expand)</summary>
 
-
-![textual analysis result](figures/textual_analysis_results.png)
+<p align="center">
+  <img src="figures/textual_analysis_results.png" alt="textual_analysis_results" width="90%">
+</p>
 
 </details>
 
 <details>
 <summary>Results on the materiality study tasks (click to expand)</summary>
 
+<p align="center">
+  <img src="figures/materiality_study_results.png" alt="materiality_study_results" width="90%">
+</p>
 
-
-![textual analysis result](figures/materiality_study_results.png)
 
 </details>
 
 <details>
 <summary>Results on the cultural study tasks (click to expand)</summary>
 
-
-![textual analysis result](figures/cultural_study_results.png)
+<p align="center">
+  <img src="figures/cultural_study_results.png" alt="cultural_study_results" width="90%">
+</p>
 
 </details>
 
