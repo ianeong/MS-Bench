@@ -22,6 +22,7 @@
 
 
 ![overview](figures/overview.png)
+
 ## 🔍 Overview
 
 Analyzing ancient manuscripts has traditionally been a labor-intensive and time-consuming task for philologists. Recent advancements in LMMs have demonstrated their potential across various domains, yet their effectiveness in manuscript study remains largely unexplored. 
