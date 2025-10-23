@@ -30,7 +30,9 @@ We present **MS-Bench**, the first comprehensive benchmark co-developed with arc
 
 Through **four prompting strategies**, we systematically evaluate **32 LMMs** on their effectiveness, robustness, and cultural contextualization. 
 
-![data_classification](figures/data_classification.png)
+<p align="center">
+  <img src="figures/data_classification.png" alt="data_classification" width="60%">
+</p>
 
 > Our comprehensive benchmark consist of multi-source, multi-scale manuscripts. Tasks are hierarchically organized to address domain challenges. Multiple question formats assess LMMs’ effectiveness and robustness.
 
