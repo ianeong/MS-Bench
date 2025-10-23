@@ -3,13 +3,13 @@
 # MS-Bench: A Multimodal Benchmark for Evaluating Large Language Models in Ancient Manuscript Study [NEURIPS 2025 Datasets and Benchmarks Track🔥]
 
 
-**Yuqing Zhang**<sup>*</sup> · **Yue Han**<sup>*</sup> · **Shuanghe Zhu** · **Haoxiang Wu** · **Hangqi Li** · **Shengyu Zhang**&dagger · **Junchi Yan** · **Zemin Liu** · **Kun Kuang** · **Huaiyong Dou**&dagger · **Yongquan Zhang** · **Fei Wu**&dagger
+**Yuqing Zhang**<sup>*</sup> · **Yue Han**<sup>*</sup> · **Shuanghe Zhu** · **Haoxiang Wu** · **Hangqi Li** · **Shengyu Zhang**† · **Junchi Yan** · **Zemin Liu** · **Kun Kuang** · **Huaiyong Dou**† · **Yongquan Zhang** · **Fei Wu**†
 
 [![Paper](https://img.shields.io/badge/NeurIPS%202025-Paper-green)](https://neurips.cc/virtual/2025/poster/121478)
 [![GitHub stars](https://img.shields.io/github/stars/ianeong/MS-Bench.svg?style=social)](https://github.com/ianeong/MS-Bench)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
-<small><sup>*</sup>Equal Contribution</small>, &dagger Corresponding Authors. 
+<small><sup>*</sup>Equal Contribution</small>, † Corresponding Authors. 
 
 </div>
 
