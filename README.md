@@ -3,13 +3,13 @@
 # MS-Bench: A Multimodal Benchmark for Evaluating Large Language Models in Ancient Manuscript Study [NEURIPS 2025 Datasets and Benchmarks Track🔥]
 
 
-**Yuqing Zhang** <sup> * </sup> · **Yue Han** <sup>*</sup>  · **Shuanghe Zhu**· **Haoxiang Wu** · **Hangqi Li** ·  **Shengyu Zhang**· **Junchi Yan** · **Zemin Liu** · **Kun Kuang** · **Huaiyong Dou** · **Yongquan Zhang** · **Fei Wu**
+**Yuqing Zhang**<sup>*</sup> · **Yue Han**<sup>*</sup> · **Shuanghe Zhu** · **Haoxiang Wu** · **Hangqi Li** · **Shengyu Zhang**&dagger · **Junchi Yan** · **Zemin Liu** · **Kun Kuang** · **Huaiyong Dou**&dagger · **Yongquan Zhang** · **Fei Wu**&dagger
 
 [![Paper](https://img.shields.io/badge/NeurIPS%202025-Paper-green)](https://neurips.cc/virtual/2025/poster/121478)
 [![GitHub stars](https://img.shields.io/github/stars/ianeong/MS-Bench.svg?style=social)](https://github.com/ianeong/MS-Bench)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
-<small><sup>*</sup> Equal Contribution</small>
+<small><sup>*</sup>Equal Contribution</small>, &dagger Corresponding Authors. 
 
 </div>
 
@@ -139,7 +139,7 @@ Each file contains model responses for the corresponding sub-task group.
 
 
 <p align="center">
-  <img src="figures/textual_recognition_results.png" alt="textual_recognition_results" width="90%">
+  <img src="figures/textual_recognition_results.png" alt="textual_recognition_results" width="80%">
 </p>
 
 </details>
@@ -148,7 +148,7 @@ Each file contains model responses for the corresponding sub-task group.
 <summary>Results on the textual analysis tasks (click to expand)</summary>
 
 <p align="center">
-  <img src="figures/textual_analysis_results.png" alt="textual_analysis_results" width="90%">
+  <img src="figures/textual_analysis_results.png" alt="textual_analysis_results" width="80%">
 </p>
 
 </details>
@@ -157,7 +157,7 @@ Each file contains model responses for the corresponding sub-task group.
 <summary>Results on the materiality study tasks (click to expand)</summary>
 
 <p align="center">
-  <img src="figures/materiality_study_results.png" alt="materiality_study_results" width="90%">
+  <img src="figures/materiality_study_results.png" alt="materiality_study_results" width="80%">
 </p>
 
 
@@ -167,7 +167,7 @@ Each file contains model responses for the corresponding sub-task group.
 <summary>Results on the cultural study tasks (click to expand)</summary>
 
 <p align="center">
-  <img src="figures/cultural_study_results.png" alt="cultural_study_results" width="90%">
+  <img src="figures/cultural_study_results.png" alt="cultural_study_results" width="80%">
 </p>
 
 </details>
