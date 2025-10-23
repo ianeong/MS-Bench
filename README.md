@@ -9,7 +9,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/ianeong/MS-Bench.svg?style=social)](https://github.com/ianeong/MS-Bench)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
-<small><sup>*</sup>Equal Contribution</small>, † Corresponding Authors. 
+<small><sup>*</sup> Equal Contribution</small>, † Corresponding Authors. 
 
 </div>
 
