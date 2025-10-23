@@ -168,4 +168,4 @@ Each file contains model responses for the corresponding sub-task group.
 
 ## 📮 Contact
 
-For issues, suggestions, or contributions, feel free to open an issue or PR.
+For issues, suggestions, or contributions, feel free to contact [yuqingz7@zju.edu.cn](mailto:yuqingz7@zju.edu.cn).
